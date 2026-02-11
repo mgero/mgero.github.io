@@ -14,8 +14,24 @@ layout: default
       </h1>
       <p class="desc">{{ page.subtitle }}</p>
     </div>
+    {% if page.header_logos and page.profile == null %}
+      <div class="about-header-logos">
+        {% for logo in page.header_logos %}
+          {% if logo.link %}
+            <a href="{{ logo.link }}" class="about-header-logo-link" target="_blank" rel="noopener noreferrer">
+          {% endif %}
+          <img src="{{ logo.image }}" alt="{{ logo.alt | default: 'Affiliation logo' }}" class="about-header-logo">
+          {% if logo.link %}
+            </a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endif %}
+  </header>
+
+  <article>
     {% if page.profile %}
-      <div class="profile about-header-profile">
+      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %} about-header-profile">
         {% if page.header_logos %}
           <div class="about-header-logos">
             {% for logo in page.header_logos %}
@@ -48,22 +64,8 @@ layout: default
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
       </div>
-    {% elsif page.header_logos %}
-      <div class="about-header-logos">
-        {% for logo in page.header_logos %}
-          {% if logo.link %}
-            <a href="{{ logo.link }}" class="about-header-logo-link" target="_blank" rel="noopener noreferrer">
-          {% endif %}
-          <img src="{{ logo.image }}" alt="{{ logo.alt | default: 'Affiliation logo' }}" class="about-header-logo">
-          {% if logo.link %}
-            </a>
-          {% endif %}
-        {% endfor %}
-      </div>
     {% endif %}
-  </header>
 
-  <article>
     <div class="clearfix">{{ content }}</div>
 
     <!-- News -->
