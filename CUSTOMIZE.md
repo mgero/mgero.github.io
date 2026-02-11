@@ -187,9 +187,9 @@ The customization agent can assist with tasks such as:
 To use the customization agent:
 
 1. Ensure you have a [GitHub Copilot](https://github.com/features/copilot) subscription
-2. Open your repository in an editor with GitHub Copilot support (such as VS Code with the GitHub Copilot extension)
-3. Interact with GitHub Copilot and ask questions or request changes. For more information, check [Using custom agents in your IDE](https://docs.github.com/en/enterprise-cloud@latest/copilot/how-tos/use-copilot-agents/coding-agent/create-custom-agents#using-custom-agents-in-your-ide)
-4. The agent will guide you through the customization process and can make changes directly to your files
+1. Open your repository in an editor with GitHub Copilot support (such as VS Code with the GitHub Copilot extension)
+1. Interact with GitHub Copilot and ask questions or request changes. For more information, check [Using custom agents in your IDE](https://docs.github.com/en/enterprise-cloud@latest/copilot/how-tos/use-copilot-agents/coding-agent/create-custom-agents#using-custom-agents-in-your-ide)
+1. The agent will guide you through the customization process and can make changes directly to your files
 
 For example, you can ask:
 
@@ -312,11 +312,11 @@ Understanding al-folio's technology stack will help you better customize and ext
 Understanding how these technologies work together will help you customize al-folio effectively:
 
 1. **Content Creation**: Write content in Markdown
-2. **Template Processing**: Jekyll processes Markdown through Liquid templates
-3. **Styling**: SCSS files are compiled to CSS, with Bootstrap providing the responsive layout framework
-4. **Bibliography**: BibTeX files are processed by jekyll-scholar to generate publication pages
-5. **Static Site Generation**: Jekyll builds all files into static HTML
-6. **Deployment**: GitHub Actions automatically deploys the built site to GitHub Pages
+1. **Template Processing**: Jekyll processes Markdown through Liquid templates
+1. **Styling**: SCSS files are compiled to CSS, with Bootstrap providing the responsive layout framework
+1. **Bibliography**: BibTeX files are processed by jekyll-scholar to generate publication pages
+1. **Static Site Generation**: Jekyll builds all files into static HTML
+1. **Deployment**: GitHub Actions automatically deploys the built site to GitHub Pages
 
 ## Modifying the CV information
 
@@ -329,11 +329,11 @@ Your CV can be created using one of two formats. Choose the format that works be
 **If you choose this format:**
 
 1. Edit your CV data in [`_data/cv.yml`](_data/cv.yml)
-2. Optionally customize how the PDF is styled by editing:
+1. Optionally customize how the PDF is styled by editing:
    - [`assets/rendercv/design.yaml`](assets/rendercv/design.yaml) — Design and styling
    - [`assets/rendercv/locale.yaml`](assets/rendercv/locale.yaml) — Localization and formatting
    - [`assets/rendercv/settings.yaml`](assets/rendercv/settings.yaml) — RenderCV settings
-3. To display only this format, delete [`assets/json/resume.json`](assets/json/resume.json) (optional)
+1. To display only this format, delete [`assets/json/resume.json`](assets/json/resume.json) (optional)
 
 ### JSONResume Format
 
@@ -342,7 +342,7 @@ Your CV can be created using one of two formats. Choose the format that works be
 **If you choose this format:**
 
 1. Edit your CV data in [`assets/json/resume.json`](assets/json/resume.json)
-2. To display only this format, delete [`_data/cv.yml`](_data/cv.yml) (optional)
+1. To display only this format, delete [`_data/cv.yml`](_data/cv.yml) (optional)
 
 ### Using Both Formats Simultaneously
 
@@ -458,7 +458,7 @@ To create a new collection, follow these steps. We will create a `courses` colle
    - `permalink` defines the URL path for each collection item (`:path` is replaced with the filename)
      - Note: You can customize the [permalink structure](https://jekyllrb.com/docs/permalinks/#collections) as needed. If not set, it uses `/COLLECTION_NAME/:name/`.
 
-2. **Create a folder for your collection items**
+1. **Create a folder for your collection items**
 
    Create a new folder in the root directory with an underscore prefix, matching your collection name. For a `courses` collection, create `_courses/`:
 
@@ -469,7 +469,7 @@ To create a new collection, follow these steps. We will create a `courses` colle
    └── course_3.md
    ```
 
-3. **Create a landing page for your collection**
+1. **Create a landing page for your collection**
 
    Add a Markdown file in `_pages/` (e.g., `courses.md`) that will serve as the main page for your collection. You can use [\_pages/projects.md](_pages/projects.md) or [\_pages/books.md](_pages/books.md) as a template and adapt it for your needs.
 
@@ -484,7 +484,7 @@ To create a new collection, follow these steps. We will create a `courses` colle
    {% endfor %}
    ```
 
-4. **Add a navigation link to your collection page**
+1. **Add a navigation link to your collection page**
 
    Update [\_pages/dropdown.md](_pages/dropdown.md) or the navigation configuration of your page. In the frontmatter of your collection landing page (e.g., `_pages/courses.md`), add:
 
@@ -496,7 +496,7 @@ To create a new collection, follow these steps. We will create a `courses` colle
    - `nav: true` makes the page appear in the navigation menu
    - `nav_order` sets the position in the menu (1 = first, 2 = second, etc.)
 
-5. **Create collection items**
+1. **Create collection items**
 
    Add Markdown files in your new collection folder (e.g., `_courses/`) with appropriate frontmatter and content.
 
@@ -565,10 +565,10 @@ Additional course content, information, or resources can be added here as markdo
 #### Important course collection notes
 
 1. Each course file must have a unique `course_id` in the frontmatter
-2. Course files will be grouped by `year` on the teaching page
-3. Within each year, courses are sorted by `term`
-4. The content below the frontmatter (written in markdown) will appear on the individual course page
-5. The schedule section will be automatically formatted into a table
+1. Course files will be grouped by `year` on the teaching page
+1. Within each year, courses are sorted by `term`
+1. The content below the frontmatter (written in markdown) will appear on the individual course page
+1. The schedule section will be automatically formatted into a table
 
 #### Required fields
 
@@ -619,7 +619,7 @@ Custom fields (any field name you create) remain as **strings** and require expl
    ---
    ```
 
-2. **Handle the custom field in your layout template**
+1. **Handle the custom field in your layout template**
 
    In your layout file (e.g., `_layouts/book-review.liquid`), custom fields must be **split** into arrays before you can loop over them:
 
@@ -636,7 +636,7 @@ Custom fields (any field name you create) remain as **strings** and require expl
 
    **Why the `split: ' '` filter?** Because `adaptations` is a custom field, Jekyll doesn't automatically convert it to an array like it does for `categories` and `tags`. The `split: ' '` filter breaks the space-separated string into individual items.
 
-3. **Enable archive pages for your custom field**
+1. **Enable archive pages for your custom field**
 
    Add your custom field to the `jekyll-archives` configuration in [\_config.yml](_config.yml):
 
@@ -660,7 +660,7 @@ Custom fields (any field name you create) remain as **strings** and require expl
          adaptations: "/:collection/:type/:name/" # Add permalink pattern here
    ```
 
-4. **Test your archive pages**
+1. **Test your archive pages**
 
    After configuration, rebuild your site:
 
@@ -823,7 +823,7 @@ navbar_fixed: true
 Social media information is managed through the [`jekyll-socials` plugin](https://github.com/george-gca/jekyll-socials). To add your social media links:
 
 1. Edit [`_data/socials.yml`](_data/socials.yml) to add your social profiles
-2. The plugin will automatically display the social icons based on the order they are defined in the file (see the comments at the top of `_data/socials.yml`)
+1. The plugin will automatically display the social icons based on the order they are defined in the file (see the comments at the top of `_data/socials.yml`)
 
 The template supports icons from:
 
@@ -876,7 +876,7 @@ To enable social media previews:
    serve_og_meta: true
    ```
 
-2. Rebuild your site:
+1. Rebuild your site:
    ```bash
    docker compose down && docker compose up
    # or
@@ -1079,7 +1079,7 @@ third_party_libraries:
 To update a library:
 
 1. Change the `version` number
-2. Obtain the new integrity hash for the updated library version and update the `integrity` field with the new hash. You can:
+1. Obtain the new integrity hash for the updated library version and update the `integrity` field with the new hash. You can:
    - Check if the CDN provider (e.g., jsDelivr, cdnjs, unpkg) provides the SRI hash for the file. Many CDN sites display the SRI hash alongside the file URL.
    - Generate the SRI hash yourself using a tool such as [SRI Hash Generator](https://www.srihash.org/) or by running the following command in your terminal:
 
@@ -1281,13 +1281,13 @@ In this folder you need to store your file in the same format as you would in `_
    enable_cookie_consent: false
    ```
 
-2. Change it to:
+1. Change it to:
 
    ```yaml
    enable_cookie_consent: true
    ```
 
-3. Rebuild your site:
+1. Rebuild your site:
 
    ```bash
    docker compose down && docker compose up
@@ -1295,7 +1295,7 @@ In this folder you need to store your file in the same format as you would in `_
    bundle exec jekyll serve
    ```
 
-4. The consent dialog will automatically appear on your site's homepage on first visit
+1. The consent dialog will automatically appear on your site's homepage on first visit
 
 ### Customizing the consent dialog
 
@@ -1328,16 +1328,16 @@ When cookie consent is enabled, these analytics providers are automatically bloc
 Each provider only collects data if:
 
 1. It's enabled in `_config.yml` (e.g., `enable_google_analytics: true`)
-2. The user has granted consent to the "analytics" category in the consent dialog
+1. The user has granted consent to the "analytics" category in the consent dialog
 
 ### How it integrates with analytics
 
 When `enable_cookie_consent: true`, the template automatically:
 
 1. Adds `type="text/plain" data-category="analytics"` to all analytics script tags
-2. This tells the cookie consent library to block these scripts until consent is granted
-3. Loads the consent library and initializes Google Consent Mode
-4. Updates consent preferences when the user changes them in the dialog
+1. This tells the cookie consent library to block these scripts until consent is granted
+1. Loads the consent library and initializes Google Consent Mode
+1. Updates consent preferences when the user changes them in the dialog
 
 You don't need to modify any analytics configuration—it works automatically.
 
@@ -1392,11 +1392,11 @@ GitHub restricts the default `GITHUB_TOKEN` from triggering other workflows when
      - `repo` (for classic tokens if repo is private), `public_repo` (for classic tokens if repo is public) or `contents: read/write` (for fine-grained tokens)
    - Save the token somewhere safe.
 
-2. **Add the PAT as a repository secret**
+1. **Add the PAT as a repository secret**
    - Go to your repository on GitHub.
    - Navigate to `Settings` > `Secrets and variables` > `Actions` > `New repository secret`.
    - Name the secret `PAT` (must match the name used in the workflow).
    - Paste your PAT and save.
 
-3. **Workflow usage**
+1. **Workflow usage**
    The workflow `.github/workflows/update-citations.yml` uses this PAT to commit updates to `_data/citations.yml`.
