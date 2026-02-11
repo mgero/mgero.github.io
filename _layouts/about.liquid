@@ -2,16 +2,31 @@
 layout: default
 ---
 <div class="post">
-  <header class="post-header">
-    <h1 class="post-title">
-      {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
-    </h1>
-    <p class="desc">{{ page.subtitle }}</p>
+  <header class="post-header about-header">
+    <div class="about-header-text">
+      <h1 class="post-title">
+        {% if site.title == 'blank' %}
+          <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+          {{ site.last_name }}
+        {% else %}
+          {{ site.title }}
+        {% endif %}
+      </h1>
+      <p class="desc">{{ page.subtitle }}</p>
+    </div>
+    {% if page.header_logos %}
+      <div class="about-header-logos">
+        {% for logo in page.header_logos %}
+          {% if logo.link %}
+            <a href="{{ logo.link }}" class="about-header-logo-link" target="_blank" rel="noopener noreferrer">
+          {% endif %}
+          <img src="{{ logo.image }}" alt="{{ logo.alt | default: 'Affiliation logo' }}" class="about-header-logo">
+          {% if logo.link %}
+            </a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endif %}
   </header>
 
   <article>
