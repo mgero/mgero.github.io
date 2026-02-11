@@ -23,6 +23,10 @@ $light-purple-color: color.adjust($purple-color, $lightness: 25%);
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
+$unipd-red-color: #9b0014 !default; // Universita degli Studi di Padova brand red
+$unipd-red-color-dark: #7f0010 !default;
+$unipd-red-color-light: #dc5b6d !default;
+$unipd-red-color-light-hover: color.adjust($unipd-red-color-light, $lightness: 8%);
 
 $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
@@ -34,7 +38,7 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light: rgba($purple-color, 0.05);
+$code-bg-color-light: rgba($unipd-red-color, 0.05);
 $code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
