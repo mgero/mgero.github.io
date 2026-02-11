@@ -446,21 +446,6 @@ ninja.data = [{
           description: "HRTFs On-demand for Binaural Audio software development project.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-aassci",
-          title: 'AASSCI',
-          description: "Action anticipation and muscle reaction to sound stimuli in cochlear implant patients.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-alt-frailty",
-          title: 'ALT FRAILTY',
-          description: "Personalized health management of physical, mental, and social frailty.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-keys-to-sound",
-          title: 'Keys to Sound',
-          description: "Unlocking ecologies of music cognition from materiality to digital twins.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{id: "teachings-digital-humanities-lab",
           title: 'Digital Humanities Lab',
           description: "Adjunct Professor (6 ECTS) in the BA in Humanities, University of Udine.",
