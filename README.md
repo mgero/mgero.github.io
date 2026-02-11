@@ -4,7 +4,9 @@ Associate Professor of Computer Engineering at the University of Padua. My resea
 immersive audio, virtual and augmented reality, and multimodal interaction.
 
 - Website: https://mgero.github.io
-- Email: geronazzo.michele@gmail.com
+- Email: michele.geronazzo@unipd.it
+- LinkedIn: https://www.linkedin.com/in/michele-geronazzo/
+- ORCID: https://orcid.org/0000-0002-0621-2704
 
 ## About
 
