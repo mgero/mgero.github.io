@@ -12,6 +12,7 @@ profile:
     <p>Department of Management and Engineering</p>
     <p>University of Padua</p>
     <p>Padua, Italy</p>
+    <p><img src="https://www.gest.unipd.it/++theme++unipdgest.plonetheme/images/logo.png" alt="University of Padua and Department logo" style="max-width: 240px; height: auto;"></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
