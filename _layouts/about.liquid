@@ -32,19 +32,6 @@ layout: default
   <article>
     {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %} about-header-profile">
-        {% if page.header_logos %}
-          <div class="about-header-logos">
-            {% for logo in page.header_logos %}
-              {% if logo.link %}
-                <a href="{{ logo.link }}" class="about-header-logo-link" target="_blank" rel="noopener noreferrer">
-              {% endif %}
-              <img src="{{ logo.image }}" alt="{{ logo.alt | default: 'Affiliation logo' }}" class="about-header-logo">
-              {% if logo.link %}
-                </a>
-              {% endif %}
-            {% endfor %}
-          </div>
-        {% endif %}
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
@@ -59,6 +46,19 @@ layout: default
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
             cache_bust=true
           %}
+        {% endif %}
+        {% if page.header_logos %}
+          <div class="about-header-logos">
+            {% for logo in page.header_logos %}
+              {% if logo.link %}
+                <a href="{{ logo.link }}" class="about-header-logo-link" target="_blank" rel="noopener noreferrer">
+              {% endif %}
+              <img src="{{ logo.image }}" alt="{{ logo.alt | default: 'Affiliation logo' }}" class="about-header-logo">
+              {% if logo.link %}
+                </a>
+              {% endif %}
+            {% endfor %}
+          </div>
         {% endif %}
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>

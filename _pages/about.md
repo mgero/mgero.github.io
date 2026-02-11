@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor of Computer Engineering, University of Padua
+subtitle: Associate Professor of Computer Engineering
 header_logos:
   - image: https://www.gest.unipd.it/++theme++unipdgest.plonetheme/images/logo.png
     alt: University of Padua and Department of Management and Engineering logo
