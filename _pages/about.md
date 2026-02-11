@@ -27,18 +27,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-MICHELE GERONAZZO (Senior Member, IEEE) received the M.Sc. degree in 2009 and the Ph.D. degree in 2014.
-Between 2014 and 2021, he was an Assistant Professor with the University of Udine. He was also a
-Postdoctoral Researcher with Aalborg University, Copenhagen, Denmark. Since 2015, he has been a part of
-the organising committee of the
+I am a Senior Member of IEEE, and I received my M.Sc. degree in 2009 and my Ph.D. degree in 2014.
+Between 2014 and 2021, I was an Assistant Professor at the University of Udine. I was also a
+Postdoctoral Researcher at Aalborg University, Copenhagen, Denmark. Since 2015, I have been part of the
+organising committee of the
 [IEEE VR Workshop on Sonic Interactions for Virtual Environments (SIVE)](https://sive.create.aau.dk/)
-(chair of the 2018, 2020, and 2022 editions). He is currently an Associate Professor with the University
-of Padova, Padua, Italy, and is also a part of the coordination unit of the
-[EU-H2020 project SONICOM](https://www.sonicom.eu/) at Imperial College London. His research interests
-mainly include modeling and simulation of complex human-machine sonic interactions. He is also an
+(chair of the 2018, 2020, and 2022 editions). I am currently an Associate Professor at the University of
+Padova, Padua, Italy, and I am also part of the coordination unit of the
+[EU-H2020 project SONICOM](https://www.sonicom.eu/) at Imperial College London. My research interests
+mainly include modeling and simulation of complex human-machine sonic interactions. I am also an
 Associate Editor for the
 [IEEE Open Journal of Signal Processing](https://signalprocessingsociety.org/publications-resources/ieee-open-journal-signal-processing/about-open-journal-signal-processing),
 [ACM Transactions on Applied Perception](http://tap.acm.org/), and Springer's journal
-[Multimedia Tools and Applications](https://link.springer.com/journal/11042). He is also Editor of the
-Springer-Nature's Book Sonic Interactions in Virtual Environments. He was the co-recipient of six best
+[Multimedia Tools and Applications](https://link.springer.com/journal/11042). I am also Editor of the
+Springer-Nature's Book Sonic Interactions in Virtual Environments. I was the co-recipient of six best
 paper/poster awards and co-author of more than 100 scientific publications.
