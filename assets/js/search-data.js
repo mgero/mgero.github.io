@@ -482,18 +482,25 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/virtual-augmented-mixed-realities/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/michele-geronazzo-cv.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%67%65%72%6F%6E%61%7A%7A%6F.%6D%69%63%68%65%6C%65@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%6D%69%63%68%65%6C%65.%67%65%72%6F%6E%61%7A%7A%6F@%75%6E%69%70%64.%69%74", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/michele-geronazzo", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-0621-2704", "_blank");
         },
       },{
         id: 'social-rss',
