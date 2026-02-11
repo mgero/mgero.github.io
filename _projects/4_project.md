@@ -2,7 +2,6 @@
 layout: page
 title: Acoustically-trained 3D Audio Models
 description: International fellowship for VR audio models at Aalborg University.
-img: /assets/img/4.jpg
 importance: 4
 category: research
 ---

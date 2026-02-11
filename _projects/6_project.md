@@ -2,7 +2,6 @@
 layout: page
 title: HOBA
 description: HRTFs On-demand for Binaural Audio software development project.
-img: /assets/img/6.jpg
 importance: 6
 category: research
 ---
