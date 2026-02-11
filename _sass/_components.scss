@@ -107,6 +107,21 @@ ul.task-list input[type="checkbox"] {
     max-width: 290px;
     height: auto;
   }
+
+  .about-header-profile {
+    flex-shrink: 0;
+  }
+
+  .about-header-profile .about-header-logos {
+    justify-content: flex-start;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
+
+  .about-header-profile .about-header-logo {
+    width: 100%;
+    max-width: 100%;
+  }
 }
 
 .profile .more-info .about-affiliation-line {
@@ -136,12 +151,17 @@ ul.task-list input[type="checkbox"] {
     flex-direction: column;
     align-items: flex-start;
 
-    .about-header-logos {
+    > .about-header-logos {
       justify-content: flex-start;
       margin-top: 0.35rem;
     }
 
-    .about-header-logo {
+    > .about-header-logos .about-header-logo {
+      width: min(72vw, 280px);
+      max-width: 100%;
+    }
+
+    .about-header-profile {
       width: min(72vw, 280px);
       max-width: 100%;
     }
