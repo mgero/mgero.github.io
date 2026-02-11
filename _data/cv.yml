@@ -291,27 +291,27 @@ cv:
       - bullet: "External evaluator for individual fellowships, University of Bayreuth, 2020."
 
     Awards:
-      - title: EEA Best Paper and Presentation Award
+      - name: EEA Best Paper and Presentation Award
         date: 2019-09
         awarder: European Acoustics Association
         summary: Awarded to Roberto Barumerli for a paper co-authored by me (ICA 2019).
-      - title: Best Poster Award
+      - name: Best Poster Award
         date: 2019-09
         awarder: Italian Society of Motor and Sports Sciences
         summary: Awarded to Mehrdad Bahadori for a co-authored abstract (XI SISMES National Congress).
-      - title: Best Abstract IRC 2017 (3rd prize)
+      - name: Best Abstract IRC 2017 (3rd prize)
         date: 2017-10
         awarder: Italian Resuscitation Council
-      - title: Best Paper Award (3rd prize)
+      - name: Best Paper Award (3rd prize)
         date: 2017-09
         awarder: International Conference on Digital Audio Effects (DAFx-17)
-      - title: Gino Sacerdote award for best PhD thesis in acoustics
+      - name: Gino Sacerdote award for best PhD thesis in acoustics
         date: 2015-07
         awarder: Italian Acoustics Association
-      - title: Best Short Paper Award
+      - name: Best Short Paper Award
         date: 2013-12
         awarder: MoMM'13 - International Conference on Advances in Mobile Computing and Multimedia
-      - title: Top 10% Paper Award
+      - name: Top 10% Paper Award
         date: 2010-10
         awarder: IEEE International Workshop on Multimedia Signal Processing (MMSP'10)
 
