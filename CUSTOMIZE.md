@@ -670,6 +670,7 @@ Custom fields (any field name you create) remain as **strings** and require expl
    ```
 
    Your archive pages will be generated at:
+
    - `/books/adaptations/movie/`
    - `/books/adaptations/tv-series/` (slugified from `TV-series`)
    - `/books/adaptations/video-game/` (slugified from `video-game`)
@@ -1089,6 +1090,7 @@ To update a library:
 
      Replace `[FILE_URL]` with the URL of the library file. Then, prefix the result with `sha384-` and use it in the `integrity` field.
      For detailed instructions on updating specific libraries, see the FAQ:
+
      - [How can I update Academicons version](FAQ.md#how-can-i-update-academicons-version-on-the-template)
      - [How can I update Font Awesome version](FAQ.md#how-can-i-update-font-awesome-version-on-the-template)
 
