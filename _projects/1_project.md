@@ -2,7 +2,7 @@
 layout: page
 title: SONICOM
 description: H2020 FET-Proactive project on auditory-based social interaction in AR/VR.
-img: /assets/img/1.jpg
+img: /assets/img/projects/sonicom-logo.png
 importance: 1
 category: research
 ---
