@@ -7,3 +7,43 @@
 
 "Vision":
   color: "#009f36"
+
+"C&E":
+  url: https://www.sciencedirect.com/journal/computers-and-education
+  color: "#b012b8"
+
+"IJHCS":
+  url: https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies
+  color: "#b012b8"
+
+"ISMAR":
+  url: https://www.ieeeismar.net/
+  color: "#b012b8"
+
+"JASA EL":
+  url: https://pubs.aip.org/asa/jel
+  color: "#b012b8"
+
+"MTA":
+  url: https://link.springer.com/journal/11042
+  color: "#b012b8"
+
+"OJSP":
+  url: https://signalprocessingsociety.org/publications-resources/ieee-open-journal-signal-processing
+  color: "#b012b8"
+
+"SPM":
+  url: https://signalprocessingsociety.org/publications-resources/magazines/ieee-signal-processing-magazine
+  color: "#b012b8"
+
+"TASLP":
+  url: https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing
+  color: "#b012b8"
+
+"TVCG":
+  url: https://www.computer.org/csdl/journal/tg
+  color: "#b012b8"
+
+"VR":
+  url: https://link.springer.com/journal/10055
+  color: "#b012b8"
