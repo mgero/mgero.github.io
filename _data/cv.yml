@@ -1,451 +1,81 @@
 cv:
   name: Michele Geronazzo
-  label: Associate Professor of Computer Engineering
+  label: Associate Professor in Computer Engineering
   email: geronazzo.michele@gmail.com
-  location: Padua, Italy
+  location: Padova, Italy
   website: https://mgero.github.io
   summary: >
-    Associate Professor of Computer Engineering at the University of Padua. Research on modeling and
-    simulation for immersive multimodal virtual and augmented reality, with a focus on acoustic and
-    auditory information and their integration with other sensory data.
+    My research sits at the intersection of computer science, acoustics, engineering,
+    and psychology, focusing on modelling and simulations of sonic interactions in
+    complex virtual and augmented reality systems.
 
   sections:
-    Personal Information:
-      - label: Date of birth
-        details: 05 August 1984
-      - label: Place of birth
-        details: Valdobbiadene (Treviso), Italy
-      - label: Nationality
-        details: Italian
-      - label: Marital status
-        details: Married
+    Personal Details:
+      - label: ORCID
+        details: 0000-0002-0621-2704
 
-    Contacts:
-      - label: Skype
-        details: geronazzo.michele
+    Current Positions:
+      - bullet: "Since 12/2021: Associate Professor in Computer Engineering, Department of Engineering and Management, University of Padova, Italy."
+      - bullet: "Since 2024: Member of the Human Inspired Technologies (HIT) Research Centre, University of Padova, Italy."
+      - bullet: "Since 2021: Visiting Researcher, Dyson School of Design Engineering, Imperial College London, UK (coordination unit of SONICOM, Grant No. 101017743, H2020 RIA)."
 
-    Executive Summary:
-      - bullet: "Research on modeling and simulation for immersive multimodal VR/AR with emphasis on acoustics and auditory information."
-      - bullet: "Italian National Scientific Habilitation: Full Professor in Computer Engineering (ING-INF/05), September 2023; Associate Professor in Computer Science (INF/01), November 2021."
-      - bullet: "Authored 109 publications: 30 journal articles, 6 book chapters/encyclopedias, 48 international conference papers, and 25 additional outputs."
-      - bullet: "Bibliometrics (retrieved 05 June 2025): citations 1604 (Google Scholar), 863 (Scopus); h-index 21 (GS), 16 (Scopus); i10-index 46 (GS)."
-      - bullet: "Delivered 22 conference presentations (6 invited) and 8 research seminars."
-      - bullet: "Awards include the 2015 'Gino Sacerdote' award for best PhD thesis in acoustics and finalist recognition for the MIMOS award."
-      - bullet: "Principal investigator, co-PI, or project manager on national and international projects totaling about EUR 6.8 million."
-      - bullet: "Editorial and conference roles include Associate Editor positions and chairing the SIVE workshops at IEEE VR."
+    Previous Positions:
+      - bullet: "2020-2021: Assistant Professor in Computer Science and Digital Media, Department of Humanities and Cultural Heritage, University of Udine, Italy."
+      - bullet: "2020: Research Associate, Audio Experience Design group, Dyson School of Design Engineering, Imperial College London, UK."
+      - bullet: "2017-2019: Postdoctoral Fellow, Technical Faculty of IT and Design, Aalborg University, Denmark."
+      - bullet: "2016-2017: Postdoctoral Researcher, Department of Neurosciences, University of Verona, Italy."
+      - bullet: "2014-2016: Postdoctoral Researcher, Department of Information Engineering, University of Padova, Italy."
 
-    Memberships:
-      - bullet: "Senior Member, IEEE (Computer Society - primary; Signal Processing Society)."
-      - bullet: "Member, ACM-SIGCHI."
-      - bullet: "Associate Member, European Acoustics Association (Technical Committee on Psychological and Physiological Acoustics)."
+    Education and Key Qualifications:
+      - bullet: "2014: Ph.D. in Information and Communications Technology, Department of Information Engineering, University of Padova. Supervisor: Federico Avanzini. Dissertation: Mixed Structural Models for 3D Audio in Virtual Environments."
+      - bullet: "2009, 2006: MSc and BSc in Computer Engineering, University of Padova, Italy."
 
-    Experience:
-      - company: Department of Management and Engineering, University of Padua
-        position: Associate Professor of Computer Engineering (SSD ING-INF/05)
-        location: Padua, Italy
-        start_date: 2021-12-01
-      - company: Human Inspired Technologies Research Centre, University of Padua
-        position: Official Member
-        location: Padua, Italy
-        start_date: 2024-04-01
-      - company: Dyson School of Design Engineering, Imperial College London
-        position: Visiting Researcher
-        location: London, United Kingdom
-        start_date: 2021-04-01
-      - company: Department of Humanities and Cultural Heritage, University of Udine
-        position: Senior Assistant Professor (RTD-b) and Adjunct Professor in Digital Media
-        location: Udine, Italy
-        start_date: 2020-12-01
-        end_date: 2021-12-01
-      - company: Dyson School of Design Engineering, Imperial College London
-        position: Research Associate (part-time)
-        location: London, United Kingdom
-        start_date: 2020-05-01
-        end_date: 2020-10-01
-        summary: >
-          Project: "Speech Perception and Listening Effort in Simulated Realistic Audio-Visual Environments".
-          Scientific supervisor: Prof. Lorenzo Picinali.
-      - company: Riccati-Luzzatti Technical-Economic Institute
-        position: Tenured teacher of Computer Science and Information Technologies
-        location: Treviso, Italy
-        start_date: 2019-12-01
-        end_date: 2020-11-01
-        summary: Career leave.
-      - company: Technical Faculty of IT and Design, Aalborg University
-        position: International postdoctoral researcher (equivalent to RTD-a)
-        location: Aalborg, Denmark
-        start_date: 2017-09-01
-        end_date: 2019-12-01
-        summary: Acoustically-trained 3D audio models for virtual reality applications.
-      - company: Department of Neurosciences, Biomedicine and Movement, University of Verona
-        position: Postdoctoral research fellow (SSD ING-INF/05 and MEDF/01)
-        location: Verona, Italy
-        start_date: 2017-05-01
-        end_date: 2017-08-01
-        summary: >
-          Project: "Binaural hearing and planning of action movements in cochlear implant patients".
-          Scientific supervisor: Prof. Paola Cesari.
-      - company: University of Verona and Cochlear Research and Development Limited
-        position: Postdoctoral research fellow (SSD ING-INF/05 and MEDF/01)
-        location: Verona, Italy / United Kingdom
-        start_date: 2016-05-01
-        end_date: 2017-04-01
-        summary: >
-          Project: "AASSCI - Action anticipation and muscle reaction to sound stimuli in patients with unilateral
-          and bilateral cochlear implant".
-          Scientific supervisor: Prof. Paola Cesari.
-      - company: Department of Information Engineering, University of Padua
-        position: Project leader (SSD ING-INF/05)
-        location: Padua, Italy
-        start_date: 2014-03-01
-        end_date: 2016-09-01
-        summary: >
-          Project: "PADVA - Personal Auditory Displays for Virtual Acoustics".
-          Scientific supervisor: Prof. Federico Avanzini.
-      - company: Department of Information Engineering, University of Padua
-        position: Junior postdoctoral research fellow (SSD ING-INF/05)
-        location: Padua, Italy
-        start_date: 2014-02-01
-        end_date: 2016-01-01
-        summary: >
-          Project: "Multimodal virtual environment for orientation and mobility education".
-          Scientific supervisor: Prof. Giovanni De Poli.
-      - company: Tesy Software s.r.l.
-        position: Software developer, R&D department for factory logistics solutions
-        location: Treviso, Italy
-        start_date: 2010-06-01
-        end_date: 2012-09-01
-        highlights:
-          - "Consultant from January 2011 to September 2012."
-          - "Responsibilities: real-time system design, optimization of production processes and automated warehouses."
-      - company: PUBCOMPANY s.r.l. - The Publisher's Service Company
-        position: Freelance developer
-        location: Albignasego, Italy
-        start_date: 2010-03-01
-        end_date: 2010-05-01
-        summary: "Software integration with Brain-Computer Interfaces for semi-automatic music generation."
-      - company: Centro Sistemi Treviso s.r.l.
-        position: Software developer (C/C++ and SQL)
-        location: San Biagio di Callalta, Italy
-        start_date: 2009-09-01
-        end_date: 2010-05-01
-        summary: "Customized management software for manufacturing and textile companies."
+    Research Achievements:
+      - bullet: "Main Organizer of the IEEE VR workshop on Sonic Interactions in Virtual Environments (SIVE) since 2015."
+      - bullet: "Book Editor of Sonic Interactions in Virtual Environments (Human-Computer Interaction Series, Springer Nature, Open Access, 2023)."
+      - bullet: "Contribution to international standardization projects in acoustics, including SOFA (Spatially Oriented Format for Acoustics) and The Princeton Headphone Open Archive (PHOnA)."
+      - bullet: "Research funded and developed with Cochlear R&D (UK), University of Verona, and Aalborg University across movement analysis, neurophysiological signal processing, and multimodal VR applications."
+      - bullet: "In 2021, appointed Associate Professor at the University of Padova supporting mechatronics education with focus on cyber-physical systems and robotics."
+      - bullet: "IEEE elevated membership to Senior Member status in 2019 for technological contributions to engineering."
+      - bullet: "In 2020, started a SONICOM network of excellence at Imperial College London within the EIC Pathfinder Challenges scheme."
+      - bullet: "Associate Editor roles: ACM Transactions on Applied Perception (2023), IEEE Open Journal of Signal Processing (2024), Multimedia Tools and Applications (2025)."
+      - bullet: "Chair of the first IEEE Signal Processing Society Listener Acoustic Personalization (LAP) Challenge edition (2023-2024)."
 
-    Projects:
-      - name: Principal Investigator (PI)
-        highlights:
-          - "PI, 'Listener Acoustic Personalisation (LAP) Challenge 2024', IEEE Signal Processing Society grants 2024. Oct 2023-Oct 2024 (USD 5,000)."
-          - "Coordinating PI, 'S-TWIN: The auditory digital twin of a cochlear implant', PRIN 2022. Oct 2023-Feb 2026 (EUR 331,000)."
-          - "Co-PI, 'SONICOM - Transforming Auditory-Based Social Interaction and Communication in AR/VR', EU H2020 grant 101017743. Jan 2021-present (overall budget EUR 5.65 million)."
-          - "Co-PI, 'Keys to Sound: Unlocking Ecologies of Music Cognition from Materiality to Digital Twins', INROAD grants 2021. Jan 2022-Jan 2023 (EUR 10,000)."
-          - "PI, 'Acoustically-trained 3D audio models for virtual reality applications', Aalborg University Copenhagen. Sep 2017-Dec 2019 (EUR 150,000)."
-      - name: Project Manager
-        highlights:
-          - "HOBA - Hrtfs On-demand for Binaural Audio. Sep 2015-Jan 2016. Responsibilities: milestone monitoring and planning."
-          - "PADVA - Personal Auditory Displays for Virtual Acoustics. Mar 2014-Sep 2016. Responsibilities: planning, monitoring, resource allocation."
-      - name: Key Researcher
-        highlights:
-          - "ALT FRAILTY - Personalized Health Management of Physical, Mental and Social Frailty in the Elderly, Fondazione Friuli. Jan 2021-Dec 2021."
-          - "Speech Perception and Listening Effort in Simulated Realistic Audio-Visual Environments, William Demant Foundation. May 2020-Oct 2020."
-          - "NordicSMC: The Nordic Sound and Music Computing Network, NordForsk University Hubs. Aug 2018-Dec 2019."
-          - "Numerical simulation for head-related transfer function, Facebook Reality Lab / Aalto University / Aalborg University. Dec 2018-May 2020."
-          - "Binaural hearing and planning of action movements in cochlear implant patients, Verona Brain Research Foundation. May 2017-Apr 2018."
-          - "AASSCI - Action anticipation and muscle reaction to sound stimuli in cochlear implant patients, Univ. of Verona / Cochlear R&D. May 2016-Apr 2018."
-          - "Efficient Perceptually Optimal Simulation of Room Acoustics, Academy of Finland (Project No. 265824). Jan 2015-May 2016."
-          - "PADVA - Personal Auditory Displays for Virtual Acoustics, University of Padua internal grant. Mar 2014-Sep 2016."
-          - "Multimodal virtual environment for orientation and mobility education, University of Padua internal grant. Feb 2014-Jan 2016."
-          - "Technology-augmented learning interactive environment (PhD scholarship), Fondazione Cassa di Risparmio di Padova e Rovigo. Jan 2011-Dec 2013."
-      - name: Additional Participations
-        highlights:
-          - "AHWS - Audio-haptic walking simulations for virtual reality, Danish Council for Independent Research. Feb 2013-Jan 2016."
-          - "SOFA project - Spatially Oriented Format for Acoustics, international standardization. Jan 2014-Dec 2014."
-          - "Models and interfaces for customized binaural audio rendering, University of Padua internal grant. Feb 2013-Jan 2015."
-          - "DREAM - Digital Reworking/reappropriation of ElectroAcoustic Music, EU project EACEA 2010-1174/001-001. Sep 2010-Jul 2012."
-          - "Multimodal feedback in robot-assisted motor tasks, University of Padua internal grant. Mar 2010-Feb 2012."
+    Breakthrough Works:
+      - bullet: "M. Geronazzo, Strong and weak head-related transfer functions: The eHRTF analytical framework, JASA Express Letters, 2025."
+      - bullet: "M. Geronazzo, R. Barumerli, P. Cesari, Shaping the auditory peripersonal space with motor planning in immersive virtual reality, Virtual Reality, 2023."
+      - bullet: "M. Geronazzo et al., Superhuman Hearing - Virtual Prototyping of Artificial Hearing, IEEE Transactions on Visualization and Computer Graphics, 2020."
+      - bullet: "M. Geronazzo et al., The impact of an accurate vertical localization with HRTFs on short explorations of immersive VR scenarios, IEEE/ACM ISMAR, 2018."
+      - bullet: "M. Geronazzo et al., Do we need individual head-related transfer functions for vertical localization?, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2018."
+      - bullet: "M. Geronazzo et al., Interactive spatial sonification for non-visual exploration of virtual maps, International Journal of Human-Computer Studies, 2016."
+      - bullet: "D. Fantini et al., A Survey on Machine Learning Techniques for Head-Related Transfer Function Individualization, IEEE Open Journal of Signal Processing, 2025."
+      - bullet: "A. G. Privitera, F. Fontana, M. Geronazzo, The Role of Audio in Immersive Storytelling: a Systematic Review in Cultural Heritage, Multimedia Tools and Applications, 2024."
+      - bullet: "L. Picinali et al., The SONICOM Project: AI-Driven Immersive Audio, IEEE Signal Processing Magazine, 2022."
 
-    Research Groups:
-      - bullet: "Department of Management and Engineering (DTG), University of Padua - associate professor. Department of Excellence 2018-2022 (ANVUR)."
-      - bullet: "Audio Experience Design group, Dyson School of Design Engineering, Imperial College London - collaboration since 2020."
-      - bullet: "Department of Humanities and Cultural Heritage (DIUM), University of Udine - fixed-term researcher 2020-2021."
-      - bullet: "Multisensory Experience Lab (MEL), Aalborg University Copenhagen - postdoc and ongoing collaborations since 2017."
-      - bullet: "Action Perception Laboratory (LAP), University of Verona - collaborations since 2016."
-      - bullet: "CSC Sound and Music Computing Group, University of Padua - PhD and research fellowships 2011-2016."
-      - bullet: "Active Ageing interdisciplinary group, University of Udine - member since 2020."
+    Knowledge Transfer:
+      - bullet: "2024: Founder of ATENA Space s.r.l.s., a startup developing an XR-based digital ecosystem for e-health dental practices."
+      - bullet: "2023: ATENA Virtual Assistant for dental clinics, winner of the ICT category at Start-up Veneto 2023, Italy."
 
-    Collaborations - International:
-      - bullet: "Institut Jean Le Rond d'Alembert, Sorbonne Universite (H2020 SONICOM)."
-      - bullet: "National and Kapodistrian University of Athens (H2020 SONICOM)."
-      - bullet: "University of Malaga (H2020 SONICOM)."
-      - bullet: "University of Antwerp (Barumerli doctoral project)."
-      - bullet: "University of Iceland (AHWS project)."
-      - bullet: "TU Berlin (PADVA project)."
-      - bullet: "Aalto University (PADVA and HOBA projects)."
-      - bullet: "Austrian Academy of Sciences (SOFA project)."
-      - bullet: "Princeton University (PADVA project)."
-      - bullet: "American University Washington D.C."
-      - bullet: "Aalborg University Copenhagen (SIVE workshops and publications)."
+    Peer Recognition:
+      - bullet: "Memberships of scientific societies: ACM and SIGCHI (since 2022), IEEE Senior Member (since 2017), EAA associate member and Technical Committee contributor (since 2013)."
+      - bullet: "Since 2011, delivered more than 20 talks (including invited talks and keynote lectures) at international and national conferences."
+      - bullet: "Selected invited talks include Huawei Tech Arena Munich (2025), Huawei Munich Research Center (2022), Acoustics of Ancient Theatres Symposium (2021), ICA Aachen (2019), and Imperial College London (2019)."
 
-    Collaborations - National:
-      - bullet: "IRCCS Burlo Garofolo (S-TWIN), 2023-present."
-      - bullet: "University Hospital of Verona (Binaural hearing and action planning project), 2017-present."
-      - bullet: "University of Milan, Prof. Federico Avanzini (VR audio models), 2018-2024."
-      - bullet: "University of Verona, Prof. Paola Cesari (AASSCI project), 2016-present."
-      - bullet: "University of Udine, Prof. Federico Fontana (PADVA project)."
-      - bullet: "University of Padua, Dr. Massimo Grassi (multimodal orientation and mobility project)."
-      - bullet: "Italian Institute of Technology (IIT), Dr. Luca Brayda (technology-augmented learning project)."
-      - bullet: "IUAV University of Venice, Prof. Davide Rocchesso (technology-augmented learning project)."
-      - bullet: "University of Padua, Dr. Pietro Scimemi (collaboration outside funded projects)."
-      - bullet: "University of Padua, Prof. Giulio Rosati and Dr. Fabio Oscari (collaboration outside funded projects)."
+    Honors and Funding:
+      - bullet: "2022: Coordinating PI of MUR PRIN 2022 project S-TWIN (EUR 331,000)."
+      - bullet: "2020: Co-proponent of Horizon 2020 SONICOM (Grant No. 101017743, EUR 1.8M to host organization, EUR 5.6M total)."
+      - bullet: "2017: International Research Fellowship awarded by Aalborg University (EUR 150,000)."
+      - bullet: "2017: Research Fellowship awarded by Brain Research Foundation Verona (EUR 21,000)."
+      - bullet: "2015: Gino Sacerdote Prize for the best Ph.D. thesis on acoustics (Italian Association of Acoustics)."
+      - bullet: "2014: Project manager of Personal Auditory Displays for VR, University of Padova (EUR 43,000)."
+      - bullet: "Since 2010: Six Best Paper or Poster awards at international conferences."
 
-    Collaborations - Industrial:
-      - bullet: "Facebook Reality Lab, United States (numerical simulation for HRTF), 2018-2020."
-      - bullet: "Hefio Oy, Finland (numerical simulation for HRTF), 2018-2020."
-      - bullet: "GN Jabra, Denmark (thesis projects and publication), 2018-2020."
-      - bullet: "Huawei R&D Finland (collaborative projects), 2019."
-      - bullet: "Bruel & Kjaer, Denmark (thesis projects), 2018."
-      - bullet: "Cochlear Research and Development Limited, United Kingdom (AASSCI), 2016-2018."
-
-    Conference Roles:
-      - label: Chair
-        details: >
-          IEEE Signal Processing Society sponsored "Listener Acoustic Personalization (LAP) Challenge" (2024);
-          7th Int. Workshop SIVE (IEEE VR 2022, virtual);
-          5th Int. Workshop SIVE (IEEE VR 2020, Atlanta);
-          4th Int. Workshop SIVE (IEEE VR 2018, Reutlingen).
-      - label: Co-organiser
-        details: >
-          Forum Acusticum 2023 special session A11-04 (Turin);
-          Personalisation of Binaural Audio in VR/AR (Immersive and 3D Audio, 2021, Bologna);
-          6th Int. Workshop SIVE (IEEE VR 2021);
-          Workshop on Virtual Sound for Musical Cultural Heritage (2017, Padua);
-          3rd Int. Workshop SIVE (IEEE VR 2017, Los Angeles);
-          Workshop on music and expressiveness (2015, University of Padua);
-          2nd Int. Workshop SIVE (IEEE VR 2015, Arles);
-          Colloquia @ DEI (2013, Padua).
-      - label: Associate Chair
-        details: >
-          IEEE VR 2026 (Daegu); CHI 2026 (Barcelona); CHI 2025 (Yokohama); CHI 2024 (Hawaii);
-          VRST 2025 (Montreal); VRST 2024 (Trier); VRST 2023 (Christchurch); SUI 2018 (Berlin).
-      - label: Local Organising Committee
-        details: "8th Int. Conference on Sound and Music Computing (Padua, 2011)."
-      - label: Programme Committee Member
-        details: >
-          AES International Conference on AI and Machine Learning for Audio (London, 2025);
-          DAFx 2024 (Guildford); DAFx 2023 (Copenhagen); AES 145 (New York, 2018);
-          SMC 2018 (Cyprus); CMMR 2017 (Porto); IEEE SITIS 2016 (Naples);
-          CITIMA 2015 (Thailand); SMC 2015 (Maynooth); SET-CAS 2015 (Kochi);
-          CITIMA 2014 (Marrakech); CIM 2014 (Rome); CIM 2012 (Trieste).
-      - label: Session Chair
-        details: >
-          "Physical Bodies/Physical Instruments pt.1" (XXIII CIM 2022, Ancona);
-          "Distinguished coders 2" (XXII CIM 2018, Udine);
-          "Spatial Audio - Binaural, HRTF" (AES 134, Rome 2013).
-
-    Editorial Boards:
-      - bullet: "Associate Editor, Multimedia Tools and Applications (Springer Nature), Oct 2025."
-      - bullet: "Associate Editor, IEEE Open Journal of Signal Processing, Sep 2024."
-      - bullet: "Associate Editor, ACM Transactions on Applied Perception, Jul 2023."
-      - bullet: "Book Editor, Sonic Interactions in Virtual Environments - Human-Computer Interaction Series (Springer Nature), Jan 2023."
-      - bullet: "Editor, IEEE 5th VR Workshop on Sonic Interactions for Virtual Environments proceedings (Atlanta 2020)."
-      - bullet: "Editorial Board, Technologies for VR section, Frontiers in Virtual Reality, since Oct 2019."
-      - bullet: "Lead Guest Editor, Special Issue 'Interactions in Mobile Sound and Music Computing', Wireless Communications and Mobile Computing, Oct 2019."
-      - bullet: "Editor, IEEE 4th VR Workshop on SIVE proceedings (Reutlingen 2018)."
-      - bullet: "Editor, IEEE 3rd VR Workshop on SIVE proceedings (Los Angeles 2017)."
-      - bullet: "Editor, IEEE 2nd VR Workshop on SIVE proceedings (Arles 2015)."
-      - bullet: "Editor, XX Colloquio di Informatica Musicale proceedings (Rome 2014)."
-
-    Peer Review Activities - Programme Committees:
-      - bullet: "Computers & Graphics (Elsevier), 2023."
-      - bullet: "IEEE Transactions on Mobile Computing, 2022."
-      - bullet: "ACM SIGGRAPH Asia, 2022."
-      - bullet: "ACM CHI, 2016 and 2021."
-      - bullet: "Computers & Education (Elsevier), 2021."
-      - bullet: "IEEE TVCG, 2017-2021."
-      - bullet: "IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2014-2019."
-      - bullet: "Journal of the Acoustical Society of America, 2016-2021."
-      - bullet: "International Journal of Human-Computer Studies, 2016-2017."
-      - bullet: "Journal of Ambient Intelligence and Humanized Computing, 2018."
-      - bullet: "IEEE Transactions on Multimedia, 2016."
-      - bullet: "Computer-Aided Design, 2015."
-      - bullet: "Applied Sciences (Acoustics section), 2017."
-      - bullet: "C&C: Conference on Culture and Computing, 2020."
-      - bullet: "ACM VRST, 2017 and 2019."
-      - bullet: "ACM ICMI, 2018."
-      - bullet: "IEEE VR, 2018 and 2023."
-      - bullet: "ACM CHI PLAY, 2017."
-      - bullet: "ACM MobileHCI, 2017-2018."
-      - bullet: "DAFx, 2017."
-      - bullet: "MOCO, 2017."
-      - bullet: "ACM/IEEE HRI, 2016."
-      - bullet: "ICAD, 2015."
-      - bullet: "NIME, 2014."
-      - bullet: "ICMC, 2014."
-      - bullet: "SMC conferences, 2013-2016."
-      - bullet: "Colloquium on Music Informatics, 2012-2018."
-
-    Peer Review Activities - Assessments:
-      - bullet: "External examiner for PhD thesis, Aalto University (Etienne Thuillier), 2025."
-      - bullet: "External reviewer for VQR 2020-24, ANVUR (Italy), 2025."
-      - bullet: "External reviewer for VQR 2015-19, ANVUR (Italy), 2022."
-      - bullet: "External examiner for PhD thesis, TU Berlin (Manoj Dinakaran), 2021."
-      - bullet: "External evaluator for individual fellowships, University of Bayreuth, 2020."
-
-    Awards:
-      - name: EEA Best Paper and Presentation Award
-        date: 2019-09
-        awarder: European Acoustics Association
-        summary: Awarded to Roberto Barumerli for a paper co-authored by me (ICA 2019).
-      - name: Best Poster Award
-        date: 2019-09
-        awarder: Italian Society of Motor and Sports Sciences
-        summary: Awarded to Mehrdad Bahadori for a co-authored abstract (XI SISMES National Congress).
-      - name: Best Abstract IRC 2017 (3rd prize)
-        date: 2017-10
-        awarder: Italian Resuscitation Council
-      - name: Best Paper Award (3rd prize)
-        date: 2017-09
-        awarder: International Conference on Digital Audio Effects (DAFx-17)
-      - name: Gino Sacerdote award for best PhD thesis in acoustics
-        date: 2015-07
-        awarder: Italian Acoustics Association
-      - name: Best Short Paper Award
-        date: 2013-12
-        awarder: MoMM'13 - International Conference on Advances in Mobile Computing and Multimedia
-      - name: Top 10% Paper Award
-        date: 2010-10
-        awarder: IEEE International Workshop on Multimedia Signal Processing (MMSP'10)
-
-    Recognitions:
-      - bullet: "Elevated to Senior Member of the IEEE, April 2019."
-      - bullet: "Finalist, CopenX Summit - Sound (Copenhagen) for best sound interaction project in VR, Sep 2017."
-      - bullet: "Finalist, MIMOS award for best research thesis on 3D, virtuality, and simulation, Apr 2017."
-      - bullet: "Elevated to Full Member of the Audio Engineering Society (AES), Jun 2015."
-
-    Invited Presentations:
-      - bullet: "Oral: 'The Egocentric Audio Perspective of the Digital Twin', University of Pavia, 7 Oct 2022."
-      - bullet: "Oral: 'Sonic Interactions in Headphone-mediated Virtual Environments', Huawei Munich Research Center, 1 Apr 2022."
-      - bullet: "Oral: Special session 'Binaural models: Algorithms and applications', ICA 2019, 10 Sep 2019."
-      - bullet: "Oral: 'Tecnologie per l'Interazione Sonora in Contesti di Realta Virtuale e Aumentata Immersiva', XXII CIM, 23 Nov 2018."
-      - bullet: "Poster: 'Audio augmented reality headset: a product requirements research in today's available technologies', AES Headphone Technology, 2016."
-      - bullet: "Oral: 'L'acustica dell'orecchio esterno: un approccio a modelli strutturali misti per display uditivi virtuali', AIA 2015, 17 Jul 2015."
-      - bullet: "Oral: 'Misurazione e modellazione di HRTF', AES-Italian Section Workshop, 7 Nov 2013."
-      - bullet: "Oral: 'Stanza Logo-motoria: Feedback uditivo attraverso audio binaurale', Trieste, 29 Jun 2011."
-
-    Invited Publications:
-      - bullet: "Conference: 'The Egocentric Audio Perspective in Virtual Environments', Symposium on the Acoustics of Ancient Theatres, 2022."
-      - bullet: "Journal: Acta Acustica special issue on auditory models, 2023."
-      - bullet: "Journal: Journal of New Music Research special issue on audio-first VR, 2020."
-      - bullet: "Encyclopedia entries in Encyclopedia of Computer Graphics and Games (Springer), 2018."
-      - bullet: "Journal: extended version of DAFx-17 paper in Journal of the Audio Engineering Society, 2019."
-      - bullet: "Journal: extended version of ICAD15 paper in Journal on Multimodal User Interfaces, 2016."
-      - bullet: "Conference: ICSV22 paper on low-order parametric pinna model, 2015."
-      - bullet: "Journal: synthetic individual binaural audio delivery, IJ of Pervasive Computing and Communications, 2014."
-      - bullet: "Conference: mixed structural modeling of HRTF, IEEE DSP 2013."
-
-    Invited Demonstrations:
-      - bullet: "'Let's take an acoustic selfie!' demonstration, XXI Colloquio di Informatica Musicale, 2016."
-
-    Research Seminars:
-      - bullet: "12 Nov 2019, Department of Computer Science, University of Verona (tenure-track shortlisting)."
-      - bullet: "6 Nov 2019, Department of Mathematics, Computer Science and Physics, University of Udine."
-      - bullet: "24 May 2019, Binaural Spatialisation Challenges Workshop, Imperial College London."
-      - bullet: "17 Feb 2017, Department of Medical-Surgical Sciences and Transplants, University of Milan."
-      - bullet: "12 May 2016, Department of Information Engineering, University of Padua (Musical Informatics)."
-      - bullet: "8 Jul 2015, Department of Information Engineering, University of Padua (Postdoctoral Research in Informatics)."
-      - bullet: "6 Dec 2013, Acoustics Research Institute, Austrian Academy of Sciences, Vienna."
-      - bullet: "7 May 2012, Italian Institute of Technology (IIT), Genoa."
-
-    Public Outreach:
-      - bullet: "9 Sep 2021, workshop 'Philosophy and digital transformation', University of Udine."
-      - bullet: "European Researchers' Night demonstrations at University of Padua, 2014-2017."
-      - bullet: "14 Aug 2016, newspaper article in Il Mattino di Padova on VR and learning."
-      - bullet: "15 Jun 2012, public seminar at Il Caffe dei Libri, Bassano Del Grappa."
-
-    Technology Transfer:
-      - bullet: "Founder of ATENA Space s.r.l.s. (2024), start-up for extended reality digital ecosystems in dental practices."
-      - bullet: "Business Plan Competition winner, ICT category, Start-up Veneto 2023 (project: ATENA Virtual Assistant)."
-
-    Standards and Software Development:
-      - bullet: "Release of 'sofamyroom' framework (EUPL-1.2), Jun 2021 - https://github.com/spatialaudiotools/sofamyroom."
-      - bullet: "Release of 'MSM - Binaural SDN' framework (GPLv3), May 2020 - https://github.com/msmhrtf/binsdn."
-      - bullet: "Release of 'MSM - HRTF selection' framework (GPLv3), Mar 2019 - https://github.com/msmhrtf/sel."
-      - bullet: "Release of 'HOBA - Hrtfs On-demand for Binaural Audio' framework (MIT), May 2018 - https://github.com/hoba3d."
-      - bullet: "Demo 'Let's take an acoustic selfie!' for CIM 2016 (Cagliari)."
-      - bullet: "SOFA - Spatially Oriented Format for Acoustics, standardization support, 2014-2015."
-      - bullet: "Headphone impulse response database in BT-DEI format, 2013-2014; contribution to Princeton PHOnA."
-      - bullet: "Spatial Audio in Virtual Reality Scenario installation, University Museum Centre, University of Padua, 2012."
-      - bullet: "Development of official website, 8th Int. Conference on Sound and Music Computing, 2011."
-
-    Teaching Committees:
-      - bullet: "Member, Doctoral School in Mechatronics Engineering and Product Innovation, University of Padua (2024-present)."
-      - bullet: "Founding member, Doctoral School in Informatics and Artificial Intelligence, University of Udine (2021-2024)."
-      - bullet: "Board member, Bachelor in Management Engineering, University of Padua (2022-present)."
-      - bullet: "Board member, Bachelor in Mechatronics Engineering, University of Padua (2021-present)."
-      - bullet: "Board member, Bachelor in Cultural Heritage, University of Udine (2020-2022)."
-      - bullet: "Board member, Bachelor in Humanities, University of Udine (2021-2022)."
-
-    Courses:
-      - bullet: "2025: PhD course (1 ECTS) 'Immersive Technologies and Experiences for Smart Industry', University of Padua."
-      - bullet: "2025: Lecturer, 'Artificial Intelligence Training Course' (10 hours), Liceo Scientifico 'Galileo Galilei' Dolo."
-      - bullet: "2025-present: Course leader 'Industrial Applications of Computer Vision' (6 ECTS, 72 hours), MSc Mechatronics Engineering, University of Padua."
-      - bullet: "2022-present: Course leader 'Fundamentals of Computer Science' (6 ECTS, 72 hours), BSc Management Engineering, University of Padua."
-      - bullet: "2022-2025: Course leader 'Industrial Controllers and Communication Networks' (6 ECTS, 48 hours), BSc Mechatronics Engineering, University of Padua."
-      - bullet: "2023: Lecturer 'Industrial Computer Architectures and Networks' (24 hours), ITS Meccatronico Veneto, Vicenza."
-      - bullet: "2021-2022: Lecturer 'Immersive media and social virtual reality experiences' (10 hours), University of Udine."
-      - bullet: "2021-2022: Adjunct Professor 'Digital Humanities Lab' (6 ECTS), University of Udine."
-      - bullet: "2020-2022: Adjunct Professor 'Digital Media and Cultural Heritage' (6 ECTS), University of Udine."
-      - bullet: "2020-2021: Adjunct Professor 'Laboratory of Informatics for Digital Humanities - immersive media' (3 ECTS), University of Udine."
-      - bullet: "2018-2019: PhD course 'Virtual, Augmented and Mixed realities', Aalborg University Copenhagen."
-      - bullet: "2018-2019: Supervisor and project tutor, MSc Sound and Music Computing, Aalborg University Copenhagen."
-      - bullet: "2017-2018: Lecturer 'Physical Modeling' (4 hours), Aalborg University Copenhagen."
-      - bullet: "2017-2018: Supervisor and project tutor, MSc Sound and Music Computing, Aalborg University Copenhagen."
-      - bullet: "2017-2018: Supervisor and project tutor, BSc Media Technology, Aalborg University Copenhagen."
-      - bullet: "2016-2017: PhD course 'Binaural hearing and movement computing of action planning', University of Verona."
-      - bullet: "2016-2017: Teaching assistant 'Musical Informatics', University of Padua."
-      - bullet: "2016-2017: Teaching support 'Fundamentals of Computer Science', University of Padua."
-      - bullet: "2016-2017: Teaching assistant 'Methods and Didactics of Motor Activities', University of Verona."
-      - bullet: "2014-2016: Subject expert 'Fundamentals of Computer Science', University of Padua."
-      - bullet: "2013-2014: Lecturer 'Musical Informatics', University of Padua."
-      - bullet: "2013-2014: Laboratory tutor 'Fundamentals of Computer Science', University of Padua."
-      - bullet: "2012-2013: Laboratory tutor 'Fundamentals of Computer Science', University of Padua."
-
-    Supervision:
-      - bullet: "PhD candidates supervised since 2017: Emanuele Zanoni (2024-present), Alessandro Privitera (2021-present), Daugintis Rapolas (2021-present, co-supervisor), Roberto Barumerli (2017-2021, co-supervisor)."
-      - bullet: "Master's thesis, Mechatronics Engineering (University of Padua): Emanuele Zaoni, 2024."
-      - bullet: "MSc theses, Sound and Music Computing (Aalborg University): Javier Molina Garcia (2019), Nikolaj Villefrance Lerke (2019), Mikkel Bech Jensen (2018), Jason Yves Tissieres (2018), Luis Vieira (2018)."
-      - bullet: "MSc theses, Computer Engineering (University of Padua): Diego Omiciuolo (2019), Luca Buriola (2019), Enrico Peruch (2017), Fabio Prandoni (2017), Giacomo Sorato (2016), Filippo Beraldo (2016), Alberto Bedin (2013), Fabrizio Granza (2012)."
-      - bullet: "Master's thesis, Sound Engineering (Politecnico di Milano): Lorenzo Monni (2013)."
-      - bullet: "Master's theses, Preventive and Adapted Motor Sciences (University of Verona): Ambra Cubich (2017), Giordana Perusi (2017)."
-      - bullet: "Bachelor theses supervised: Mechatronics Engineering (12), Information Engineering (15), General Psychology (1), Recording Studio Technician (1)."
-      - bullet: "International internships co-supervised: Okuno Satoshi (2022), Nikolaj Villefrance Moller (2018-2019), Luis Vieira (2017-2018), Mathieu Laroze (2014), Gabriele Carotti-Sha (2012)."
-      - bullet: "Projects supervised: Media Technologies (2) at Aalborg University; Musical Informatics projects (8) at University of Padua."
-      - bullet: "Internships supervised: 4 projects within Preventive and Adapted Motor Sciences, University of Verona (2016)."
-
-    Academic Service:
-      - bullet: "Doctoral thesis committee member: Marco Tiraboschi (University of Milan, 2024) and Mattia Guidolin (University of Padua, 2023)."
-      - bullet: "Co-reviewer of master's thesis: Grazia Pepe (University of Udine, 2020)."
-
-    Conference Presentations:
-      - bullet: "Oral presentations (selected): ICIR 2022, XXIII CIM 2022, Acoustics of Ancient Theatres 2022, ICA 2019, XXII CIM 2018, ISMAR 2018, AES 144 (2018), SIVE 2018, VRST 2016, AIA 2015, CIM 2014, AIA 2014, MoMM13, AES 134 (2013), IEEE SITIS 2012, ACM CHItaly 2011."
-      - bullet: "Poster presentations (selected): SMC 2018, VRST 2016, ICAD 2015, AES55 2014, ICASSP 2014, CMMR 2013, AES 134 (2013), CIM 2012, EUSIPCO 2012."
-
-    Certificates:
-      - name: Introductory Course on Orbit (Intellectual Property Database)
-        date: 2014-03
-        issuer: University of Padua
-      - name: STEPS Seminars Towards Enterprise for PhD Students - Organisation and Work
-        date: 2012-05
-        issuer: Confindustria Padova
-      - name: Multimodal interaction in virtual environments
-        date: 2011-05
-        issuer: Aalborg University Copenhagen
-
-    Professional Qualifications:
-      - bullet: "National Scientific Qualification 2018 (sixth call): Full Professor, competition sector 09/H1 Computer Engineering (SSD ING-INF/05), valid 17 Dec 2023-17 Dec 2037."
-      - bullet: "National Scientific Qualification 2018 (fifth call): Associate Professor, competition sector 01/B1 Computer Science (SSD INF/01), valid 23 Nov 2021-23 Nov 2029."
-      - bullet: "National Scientific Qualification 2018 (second call): Associate Professor, competition sector 09/H1 Computer Engineering (SSD ING-INF/05), valid 9 Sep 2019-9 Sep 2028."
-      - bullet: "State examination for teaching qualification A042 - Computer Science (upper secondary school), University of Verona, July 2015 (mark 90/100)."
-      - bullet: "State examination for professional engineer in Information Engineering, University of Padua, July 2009 (mark 207/240)."
-
-    Publication Summary:
-      - bullet: "See the Publications page for the full list of journal articles, conference papers, book chapters, and other outputs."
+    Additional Information:
+      - label: Organisation of Scientific Meetings
+        details: "Since 2023 chair and main organizer of the IEEE SPS Listener Acoustic Personalization (LAP) Challenge; since 2015 organizing committee member of IEEE VR SIVE workshops (chair in 2018, 2020, 2022); local organizing committee of Sound and Music Computing 2011."
+      - label: Institutional Responsibilities
+        details: "Since 2024 board member of the Ph.D. School in Mechatronics and Product Innovation Engineering (University of Padova); 2020-2024 founder and board member of the Ph.D. School in Computer Science and Artificial Intelligence (University of Udine); 2017-2019 examinations board member for MSc Sound and Music Computing (Aalborg University)."
+      - label: Supervision of Graduate Students and Postdoctoral Fellows
+        details: "Since 2023 PI of one postdoc and two research associates; since 2018 supervision of four Ph.D. students in psychoacoustics, VR, machine learning, and HCI, including collaborations with Imperial College London, University of Udine, and University of Padova."
+      - label: Reviewing Activities
+        details: "Editorial board and associate editor roles in Multimedia Tools and Applications (since 2025), IEEE Open Journal of Signal Processing (since 2024), ACM Transactions on Applied Perception (since 2023), and Frontiers in Virtual Reality (since 2019), with extensive conference and journal reviewing across IEEE VR, ISMAR, VRST, CHI, and top-tier audio and HCI venues."

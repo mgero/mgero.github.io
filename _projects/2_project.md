@@ -2,7 +2,7 @@
 layout: page
 title: S-TWIN
 description: Auditory digital twin of a cochlear implant (PRIN 2022).
-img: /assets/img/2.jpg
+img: /assets/img/projects/stwin-hero.jpeg
 importance: 2
 category: research
 ---
