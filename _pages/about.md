@@ -44,7 +44,7 @@ Associate Editor for:
 
 I am also Editor of the [Springer-Nature's Book Sonic Interactions in Virtual Environments](https://link.springer.com/book/10.1007/978-3-031-04021-4).
 
-I am a member of the International Program Committee of:
+I am Associate Chair within the International Program Committee of:
 
 - [IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)](https://ieeevr.org/)
 - [IEEE/ACM International Symposium on Mixed and Augmented Reality (ISMAR)](https://ismar.net/)
