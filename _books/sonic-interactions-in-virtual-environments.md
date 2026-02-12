@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: Sonic Interactions in Virtual Environments
-author: Michele Geronazzo, Brian F. G. Katz, Federico Avanzini, Amalia de Gotzen, and Stefania Serafin (Eds.)
+author: Michele Geronazzo and Stefania Serafin (Eds.)
 cover: assets/img/book_covers/sive-book-cover.jpg
 categories:
   - edited-volume
@@ -35,23 +35,24 @@ organizing theory, methods, and case studies in a single reference for the field
 
 ## Citation
 
-Geronazzo, M., Katz, B. F. G., Avanzini, F., de Gotzen, A., & Serafin, S. (Eds.).
-_Sonic Interactions in Virtual Environments_. Springer, 2023.
-https://doi.org/10.1007/978-3-031-04021-4
+[1] M. Geronazzo and S. Serafin, Eds., _Sonic Interactions in Virtual Environments_, 1st ed. in _Human–Computer Interaction Series_. Cham: Springer International Publishing, 2023. doi: 10.1007/978-3-031-04021-4.
 
 <details>
   <summary><strong>Show BibTeX</strong></summary>
 
 ```bibtex
-@book{geronazzo2023sive,
-  editor = {Geronazzo, Michele and Katz, Brian F. G. and Avanzini, Federico and de Gotzen, Amalia and Serafin, Stefania},
-  title = {Sonic Interactions in Virtual Environments},
-  publisher = {Springer International Publishing},
+@book{geronazzo_sonic_2023,
   address = {Cham},
-  year = {2023},
+  edition = {1},
+  series = {Human–Computer Interaction Series},
+  title = {Sonic Interactions in Virtual Environments},
+  isbn = {978-3-031-04020-7 978-3-031-04021-4},
+  url = {https://link.springer.com/10.1007/978-3-031-04021-4},
   doi = {10.1007/978-3-031-04021-4},
-  isbn = {978-3-031-04021-4},
-  url = {https://doi.org/10.1007/978-3-031-04021-4}
+  language = {en},
+  publisher = {Springer International Publishing},
+  editor = {Geronazzo, Michele and Serafin, Stefania},
+  year = {2023}
 }
 ```
 
