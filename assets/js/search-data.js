@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "Full curriculum vitae with appointments, projects, teaching, and service.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Courses taught, supervision, and academic teaching activities.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "Full curriculum vitae with appointments, projects, teaching, and service.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "books-sonic-interactions-in-virtual-environments",
           title: 'Sonic Interactions in Virtual Environments',
