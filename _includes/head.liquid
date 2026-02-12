@@ -91,7 +91,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="{{ favicon_path }}">
   <link rel="shortcut icon" href="{{ favicon_path }}">
   <link rel="apple-touch-icon" sizes="180x180" href="{{ apple_icon_path }}">
-  <link rel="manifest" href="{{ '/site.webmanifest' | relative_url | bust_file_cache }}">
+  <link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}">
 {% endif %}
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ site.github.build_revision | default: site.time | date: '%s' }}">
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
