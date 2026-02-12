@@ -68,11 +68,30 @@
 
 {% if site.icon.size <= 4 %}
   <link
+    rel="icon"
+    href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{{ site.icon }}</text></svg>"
+  >
+  <link
     rel="shortcut icon"
     href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{{ site.icon }}</text></svg>"
   >
 {% elsif site.icon != blank %}
-  <link rel="shortcut icon" href="{{ site.icon | prepend: '/assets/img/' | relative_url | bust_file_cache}}">
+  {% assign favicon_path = site.icon | prepend: '/assets/img/' | relative_url | bust_file_cache %}
+  {% if site.icon_16 != blank %}
+    {% assign favicon_16_path = site.icon_16 | prepend: '/assets/img/' | relative_url | bust_file_cache %}
+  {% endif %}
+  {% if site.icon_apple != blank %}
+    {% assign apple_icon_path = site.icon_apple | prepend: '/assets/img/' | relative_url | bust_file_cache %}
+  {% else %}
+    {% assign apple_icon_path = favicon_path %}
+  {% endif %}
+  {% if site.icon_16 != blank %}
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ favicon_16_path }}">
+  {% endif %}
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ favicon_path }}">
+  <link rel="shortcut icon" href="{{ favicon_path }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ apple_icon_path }}">
+  <link rel="manifest" href="{{ '/site.webmanifest' | relative_url | bust_file_cache }}">
 {% endif %}
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ site.github.build_revision | default: site.time | date: '%s' }}">
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
