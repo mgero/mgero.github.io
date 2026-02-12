@@ -2,7 +2,7 @@
 layout: book-review
 title: Sonic Interactions in Virtual Environments
 author: Michele Geronazzo, Brian F. G. Katz, Federico Avanzini, Amalia de Gotzen, and Stefania Serafin (Eds.)
-cover: assets/img/book_covers/sive-book-cover.svg
+cover: assets/img/book_covers/sive-book-cover.jpg
 categories:
   - edited-volume
   - sonic-interaction
@@ -13,9 +13,9 @@ tags:
   - springer
   - vr
 buy_link: https://link.springer.com/book/10.1007/978-3-031-04021-4
-date: 2022-01-01
-started: 2022-01-01
-released: 2022
+date: 2023-01-01
+started: 2023-01-01
+released: 2023
 status: finished
 ---
 
@@ -29,25 +29,26 @@ organizing theory, methods, and case studies in a single reference for the field
 ## Resources
 
 - [Presentation](https://sive.create.aau.dk/index.php/presentation/)
-- [Read introduction (Springer PDF)](https://link.springer.com/content/pdf/bfm%3A978-3-031-04021-4%2F1?pdf=chapter%20toc)
-- [Get citation in BibTeX format](https://citation-needed.springer.com/v2/references/10.1007/978-3-031-04021-4?format=bibtex&flavour=citation)
+- [Read introduction (SIVE page)](https://sive.create.aau.dk/index.php/introduction-the-sive-book/)
+- [Read introduction chapter (Springer PDF)](https://link.springer.com/content/pdf/bfm%3A978-3-031-04021-4%2F1?pdf=chapter%20toc)
+- [Citation formats (Springer)](https://link.springer.com/book/10.1007/978-3-031-04021-4#citeas)
 
 ## Citation
 
 Geronazzo, M., Katz, B. F. G., Avanzini, F., de Gotzen, A., & Serafin, S. (Eds.).
-_Sonic Interactions in Virtual Environments_. Springer, 2022.
+_Sonic Interactions in Virtual Environments_. Springer, 2023.
 https://doi.org/10.1007/978-3-031-04021-4
 
 <details>
   <summary><strong>Show BibTeX</strong></summary>
 
 ```bibtex
-@book{geronazzo2022sive,
+@book{geronazzo2023sive,
   editor = {Geronazzo, Michele and Katz, Brian F. G. and Avanzini, Federico and de Gotzen, Amalia and Serafin, Stefania},
   title = {Sonic Interactions in Virtual Environments},
   publisher = {Springer International Publishing},
   address = {Cham},
-  year = {2022},
+  year = {2023},
   doi = {10.1007/978-3-031-04021-4},
   isbn = {978-3-031-04021-4},
   url = {https://doi.org/10.1007/978-3-031-04021-4}
