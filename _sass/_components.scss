@@ -123,12 +123,20 @@ ul.task-list input[type="checkbox"] {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
+  width: 100%;
   margin: 0;
 }
 
+.about-header-profile .about-header-logo-link {
+  display: block;
+  width: 100%;
+}
+
 .about-header-profile .about-header-logo {
+  display: block;
   width: 100%;
   max-width: 100%;
+  height: auto;
 }
 
 .about-header-profile {
