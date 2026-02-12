@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-books",
+          title: "books",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/books/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "Full curriculum vitae with appointments, projects, teaching, and service.",
@@ -37,11 +44,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
+        },{id: "books-sonic-interactions-in-virtual-environments",
+          title: 'Sonic Interactions in Virtual Environments',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/sonic-interactions-in-virtual-environments/";
             },},{id: "projects-sonicom",
           title: 'SONICOM',
           description: "H2020 FET-Proactive project on auditory-based social interaction in AR/VR.",
