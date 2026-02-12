@@ -35,7 +35,7 @@ organizing theory, methods, and case studies in a single reference for the field
 
 ## Citation
 
-[1] M. Geronazzo and S. Serafin, Eds., _Sonic Interactions in Virtual Environments_, 1st ed. in _Human–Computer Interaction Series_. Cham: Springer International Publishing, 2023. doi: 10.1007/978-3-031-04021-4.
+M. Geronazzo and S. Serafin, Eds., _Sonic Interactions in Virtual Environments_, 1st ed. in _Human–Computer Interaction Series_. Cham: Springer International Publishing, 2023. doi: 10.1007/978-3-031-04021-4.
 
 <details>
   <summary><strong>Show BibTeX</strong></summary>
