@@ -13,8 +13,8 @@
   --global-theme-color: #{v.$unipd-red-color};
   --global-hover-color: #{v.$unipd-red-color-dark};
   --global-hover-text-color: #{v.$white-color};
-  --global-footer-bg-color: #{v.$grey-color-dark};
-  --global-footer-text-color: #{v.$grey-color-light};
+  --global-footer-bg-color: #{v.$unipd-red-color};
+  --global-footer-text-color: #{v.$white-color};
   --global-footer-link-color: #{v.$white-color};
   --global-distill-app-color: #{v.$grey-color};
   --global-divider-color: rgba(0, 0, 0, 0.1);
@@ -83,9 +83,9 @@ html[data-theme="dark"] {
   --global-theme-color: #{v.$unipd-red-color-light};
   --global-hover-color: #{v.$unipd-red-color-light-hover};
   --global-hover-text-color: #{v.$white-color};
-  --global-footer-bg-color: #{v.$grey-color-light};
-  --global-footer-text-color: #{v.$grey-color-dark};
-  --global-footer-link-color: #{v.$black-color};
+  --global-footer-bg-color: #{v.$unipd-red-color-dark};
+  --global-footer-text-color: #{v.$white-color};
+  --global-footer-link-color: #{v.$white-color};
   --global-distill-app-color: #{v.$grey-color-light};
   --global-divider-color: #424246;
   --global-card-bg-color: #{v.$grey-900};
