@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Courses taught, supervision, and academic teaching activities.
 nav: true
-nav_order: 6
+nav_order: 5
 calendar: false
 ---
 
