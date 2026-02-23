@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-11'
+  last_updated: '2026-02-23'
 papers:
   FZi4M7kAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -26,15 +26,15 @@ papers:
     title: Creating an audio story with interactive binaural rendering in virtual reality
     year: '2019'
   FZi4M7kAAAAJ:2osOgNQ5qMEC:
-    citations: 29
+    citations: 30
     title: A head-related transfer function model for real-time customized 3-D sound rendering
     year: '2011'
   FZi4M7kAAAAJ:35N4QoGY0k4C:
-    citations: 32
+    citations: 33
     title: Applying a single-notch metric to image-guided head-related transfer function selection for improved vertical localization
     year: '2019'
   FZi4M7kAAAAJ:3s1wT3WcHBgC:
-    citations: 13
+    citations: 14
     title: Reflections from five years of Sonic Interactions in Virtual Environments workshops
     year: '2020'
   FZi4M7kAAAAJ:4JMBOYKVnBMC:
@@ -46,7 +46,7 @@ papers:
     title: 2018 IEEE 4th VR Workshop on Sonic Interactions for Virtual Environments (SIVE)
     year: '2018'
   FZi4M7kAAAAJ:4TOpqqG69KYC:
-    citations: 10
+    citations: 9
     title: Localization of self-generated synthetic footstep sounds on different walked-upon materials through headphones
     year: '2016'
   FZi4M7kAAAAJ:4fKUyHm3Qg0C:
@@ -62,11 +62,11 @@ papers:
     title: Valutazione parametrica di un modello strutturale di orecchio esterno per il rendering binaurale del suono
     year: '2014'
   FZi4M7kAAAAJ:5ugPr518TE4C:
-    citations: 43
+    citations: 44
     title: 'The role of audio in immersive storytelling: a systematic review in cultural heritage'
     year: '2025'
   FZi4M7kAAAAJ:70eg2SAEIzsC:
-    citations: 239
+    citations: 235
     title: Mobile virtual reality for musical genre learning in primary education
     year: '2019'
   FZi4M7kAAAAJ:738O_yMBCRsC:
@@ -86,7 +86,7 @@ papers:
     title: Audio 3D e ancoraggio sonoro per l'esplorazione multimodale di ambienti virtuali
     year: '2014'
   FZi4M7kAAAAJ:9vf0nzSNQJEC:
-    citations: 8
+    citations: 9
     title: 'Listener acoustic personalisation challenge-LAP24: Head-related transfer function upsampling'
     year: '2025'
   FZi4M7kAAAAJ:9yKSN-GCB0IC:
@@ -102,7 +102,7 @@ papers:
     title: Musiche liquide. XX Colloquio di Informatica Musicale. 20Th Colloquium on Music Informatics. Liquid music
     year: '2014'
   FZi4M7kAAAAJ:BqipwSGYUEgC:
-    citations: 0
+    citations: 1
     title: "Tecnologie per la didattica musicale: un'esperienza con la realt\xE0 virtuale"
     year: '2018'
   FZi4M7kAAAAJ:BrmTIyaxlBUC:
@@ -114,7 +114,7 @@ papers:
     title: Comparison of distortion products in headphone equalization algorithms for binaural synthesis
     year: '2021'
   FZi4M7kAAAAJ:D_sINldO8mEC:
-    citations: 7
+    citations: 8
     title: On the effect of user tracking on perceived source positions in mobile audio augmented reality
     year: '2023'
   FZi4M7kAAAAJ:GnPB-g6toBAC:
@@ -126,11 +126,11 @@ papers:
     title: ESPERIMENTO ORIGINALE
     year: Unknown Year
   FZi4M7kAAAAJ:HoB7MX3m0LUC:
-    citations: 20
+    citations: 21
     title: 'Pinna-related transfer functions and lossless wave equation using finite-difference methods: Verification and asymptotic solution'
     year: '2019'
   FZi4M7kAAAAJ:IWHjjKOFINEC:
-    citations: 18
+    citations: 19
     title: 'Auditory navigation with a tubular acoustic model for interactive distance cues and personalized head-related transfer functions: An auditory target-reaching task'
     year: '2016'
   FZi4M7kAAAAJ:IjCSPb-OGe4C:
@@ -149,10 +149,6 @@ papers:
     citations: 2
     title: Influence of auditory pitch on haptic estimation of spatial height
     year: '2013'
-  FZi4M7kAAAAJ:LjlpjdlvIbIC:
-    citations: 0
-    title: A mobile game app for adaptive assessment of pitch discrimination in children with different hearing ability
-    year: '2024'
   FZi4M7kAAAAJ:LkGwnXOMwfcC:
     citations: 48
     title: Enhancing vertical localization with image-guided selection of non-individual head-related transfer functions
@@ -162,11 +158,11 @@ papers:
     title: Auditory models comparison for horizontal localization of concurrent speakers in adverse acoustic scenarios
     year: '2019'
   FZi4M7kAAAAJ:M3NEmzRMIkIC:
-    citations: 26
+    citations: 27
     title: The impact of an accurate vertical localization with HRTFs on short explorations of immersive virtual reality scenarios
     year: '2018'
   FZi4M7kAAAAJ:M3ejUd6NZC8C:
-    citations: 8
+    citations: 7
     title: Use of Personalized Binaural Audio and Interactive Distance Cues in an Auditory Goal-Reaching Task
     year: '2015'
   FZi4M7kAAAAJ:MXK_kJrjxJIC:
@@ -177,12 +173,16 @@ papers:
     citations: 13
     title: 'Technical report: SONICOM/IEEE listener acoustic personalisation (LAP) challenge-2024'
     year: '2024'
+  FZi4M7kAAAAJ:N5tVd3kTz84C:
+    citations: 0
+    title: 219 Designing sonic interactions in intelligent reality with egocentric audio technologies
+    year: Unknown Year
   FZi4M7kAAAAJ:NaGl4SEjCO4C:
     citations: 8
     title: What is it like to be a virtual bat?
     year: '2018'
   FZi4M7kAAAAJ:OU6Ihb5iCvQC:
-    citations: 57
+    citations: 47
     title: Sonic interactions in virtual environments
     year: '2023'
   FZi4M7kAAAAJ:P5F9QuxV20EC:
@@ -194,7 +194,7 @@ papers:
     title: 'Motor Planning Sensitivity to Affective Looming Sounds Within The Peri-personal Space: An Interplay of Exogenous and Endogenous Influences'
     year: '2025'
   FZi4M7kAAAAJ:RHpTSmoSYBkC:
-    citations: 170
+    citations: 171
     title: 'Sonic interactions in virtual reality: State of the art, current challenges, and future directions'
     year: '2018'
   FZi4M7kAAAAJ:SdhP9T11ey4C:
@@ -218,7 +218,7 @@ papers:
     title: 'The sonicom project: Artificial intelligence-driven immersive audio, from personalization to modeling [applications corner]'
     year: '2022'
   FZi4M7kAAAAJ:Tyk-4Ss8FVUC:
-    citations: 111
+    citations: 110
     title: On the relation between Pinna Reflection Patterns and Head-Related Transfer Function Features
     year: '2013'
   FZi4M7kAAAAJ:ULOm3_A8WrAC:
@@ -237,6 +237,10 @@ papers:
     citations: 11
     title: Shaping the auditory peripersonal space with motor planning in immersive virtual reality
     year: '2023'
+  FZi4M7kAAAAJ:VL0QpB8kHFEC:
+    citations: 19
+    title: 'Sonic Interactions in Virtual Environments: the egocentric audio perspective of the digital twin'
+    year: '2022'
   FZi4M7kAAAAJ:VOx2b1Wkg3QC:
     citations: 0
     title: 'Musiche Liquide: 20. Colloquio di Informatica Musicale= Liquid Music: 20. Colloquium on Music Informatics'
@@ -254,7 +258,7 @@ papers:
     title: 'Spatialized Looming Sounds in Virtual Reality: Reaction Times and Localization Accuracy'
     year: '2025'
   FZi4M7kAAAAJ:XiSMed-E-HIC:
-    citations: 51
+    citations: 50
     title: A Bayesian model for human directional localization of broadband static sound sources
     year: '2023'
   FZi4M7kAAAAJ:XiVPGOgt02cC:
@@ -274,11 +278,11 @@ papers:
     title: 'The external ear acoustics: a mixed structural modeling approach in virtual auditory displays'
     year: '2015'
   FZi4M7kAAAAJ:YOwf2qJgpHMC:
-    citations: 26
+    citations: 25
     title: Coloration Metrics for Headphone Equalization
     year: '2015'
   FZi4M7kAAAAJ:ZHo1McVdvXMC:
-    citations: 13
+    citations: 12
     title: 'Pinna-related transfer functions and lossless wave equation using finite-difference methods: Validation with measurements'
     year: '2020'
   FZi4M7kAAAAJ:ZeXyd9-uunAC:
@@ -290,11 +294,11 @@ papers:
     title: IEEE 8th VR Workshop on Sonic Interactions for Virtual Environments
     year: '2025'
   FZi4M7kAAAAJ:aqlVkmm33-oC:
-    citations: 77
+    citations: 78
     title: Interactive spatial sonification for non-visual exploration of virtual maps
     year: '2016'
   FZi4M7kAAAAJ:b0M2c_1WBrUC:
-    citations: 7
+    citations: 8
     title: Action planning and affective states within the auditory peripersonal space in normal hearing and cochlear-implanted listeners
     year: '2021'
   FZi4M7kAAAAJ:bEWYMUwI8FkC:
@@ -330,11 +334,11 @@ papers:
     title: A mobile game app for adaptive assessment of pitch discrimination in children with different hearing ability
     year: '2024'
   FZi4M7kAAAAJ:eQOLeE2rZwMC:
-    citations: 47
+    citations: 46
     title: Mixed structural modeling of head-related transfer functions for customized binaural audio delivery
     year: '2013'
   FZi4M7kAAAAJ:eflP2zaiRacC:
-    citations: 5
+    citations: 4
     title: An active learning procedure for the interaural time difference discrimination threshold
     year: '2023'
   FZi4M7kAAAAJ:eq2jaN3J8jMC:
@@ -350,7 +354,7 @@ papers:
     title: Research Article Creating an Audio Story with Interactive Binaural Rendering in Virtual Reality
     year: Unknown Year
   FZi4M7kAAAAJ:g5m5HwL7SMYC:
-    citations: 3
+    citations: 2
     title: Interactions in mobile sound and music computing
     year: '2019'
   FZi4M7kAAAAJ:geHnlv5EZngC:
@@ -359,14 +363,14 @@ papers:
     year: '2022'
   FZi4M7kAAAAJ:hC7cP41nSMkC:
     citations: 1
-    title: 'The selfear project: a mobile application for low-cost pinna-related transfer function acquisition'
+    title: 'The Selfear project: a mobile application for low-cost pinna-related transfer function acquisition'
     year: '2016'
   FZi4M7kAAAAJ:hFOr9nPyWt4C:
     citations: 13
     title: Acoustic selfies for extraction of external ear features in mobile audio augmented reality
     year: '2016'
   FZi4M7kAAAAJ:hqOjcs7Dif8C:
-    citations: 27
+    citations: 26
     title: 'Phona: a public dataset of measured headphone transfer functions'
     year: '2014'
   FZi4M7kAAAAJ:iH-uZ7U-co4C:
@@ -376,10 +380,10 @@ papers:
   FZi4M7kAAAAJ:j3f4tGmQtD8C:
     citations: 2
     title: Sound Spatialization
-    year: '2018'
+    year: '2024'
   FZi4M7kAAAAJ:kRWSkSYxWN8C:
-    citations: 15
-    title: 'Co-immersion in audio augmented virtuality: the case study of a static and approximated late reverberation algorithm'
+    citations: 17
+    title: 'Co-immersion in audio augmented virtuality: The case study of a static and approximated late reverberation algorithm'
     year: '2023'
   FZi4M7kAAAAJ:k_IJM867U9cC:
     citations: 3
@@ -398,7 +402,7 @@ papers:
     title: A motion based setup for peri-personal space estimation with virtual auditory displays
     year: '2016'
   FZi4M7kAAAAJ:mVmsd5A6BfQC:
-    citations: 1
+    citations: 0
     title: Model-based customized binaural reproduction through headphones
     year: '2012'
   FZi4M7kAAAAJ:maZDTaKrznsC:
@@ -415,7 +419,7 @@ papers:
     year: '2020'
   FZi4M7kAAAAJ:q3oQSFYPqjQC:
     citations: 2
-    title: 'Personalization in Audio Storytelling within Virtual and Augmented Reality: State of the Art and Insights'
+    title: 'Personalization in audio storytelling within virtual and augmented reality: State of the art and insights'
     year: '2023'
   FZi4M7kAAAAJ:qUcmZB5y_30C:
     citations: 1
@@ -430,9 +434,9 @@ papers:
     title: Absence of modulatory action on haptic height perception with musical pitch
     year: '2015'
   FZi4M7kAAAAJ:r0BpntZqJG4C:
-    citations: 2
+    citations: 3
     title: User Acoustics with Head-Related Transfer Functions
-    year: '2018'
+    year: '2024'
   FZi4M7kAAAAJ:rO6llkc54NcC:
     citations: 14
     title: 'Superhuman hearing-virtual prototyping of artificial hearing: a case study on interactions and acoustic beamforming'
@@ -455,14 +459,14 @@ papers:
     year: '2019'
   FZi4M7kAAAAJ:tkaPQYYpVKoC:
     citations: 2
-    title: Measuring Motor Planning Using an Affordable Sound-Based Virtual Reality Setup for Accessible Perception-Action Studies
+    title: Measuring motor planning using an affordable sound-based virtual reality setup for accessible perception-action studies
     year: '2025'
   FZi4M7kAAAAJ:u-x6o8ySG0sC:
     citations: 36
     title: Fitting pinna-related transfer functions to anthropometry for binaural sound rendering
     year: '2010'
   FZi4M7kAAAAJ:u5HHmVD_uO8C:
-    citations: 53
+    citations: 52
     title: Estimation and modeling of pinna-related transfer functions
     year: '2010'
   FZi4M7kAAAAJ:ufrVoPGSRksC:
@@ -470,7 +474,7 @@ papers:
     title: Extraction of pinna features for customized binaural audio delivery on mobile devices
     year: '2013'
   FZi4M7kAAAAJ:vV6vV6tmYwMC:
-    citations: 20
+    citations: 21
     title: 'Auditory feedback for navigation with echoes in virtual environments: training procedure and orientation strategies'
     year: '2019'
   FZi4M7kAAAAJ:wbdj-CoPYUoC:
