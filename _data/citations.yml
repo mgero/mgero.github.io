@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-03-06'
 papers:
   FZi4M7kAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -62,11 +62,11 @@ papers:
     title: Valutazione parametrica di un modello strutturale di orecchio esterno per il rendering binaurale del suono
     year: '2014'
   FZi4M7kAAAAJ:5ugPr518TE4C:
-    citations: 44
+    citations: 46
     title: 'The role of audio in immersive storytelling: a systematic review in cultural heritage'
     year: '2025'
   FZi4M7kAAAAJ:70eg2SAEIzsC:
-    citations: 235
+    citations: 236
     title: Mobile virtual reality for musical genre learning in primary education
     year: '2019'
   FZi4M7kAAAAJ:738O_yMBCRsC:
@@ -194,7 +194,7 @@ papers:
     title: 'Motor Planning Sensitivity to Affective Looming Sounds Within The Peri-personal Space: An Interplay of Exogenous and Endogenous Influences'
     year: '2025'
   FZi4M7kAAAAJ:RHpTSmoSYBkC:
-    citations: 171
+    citations: 172
     title: 'Sonic interactions in virtual reality: State of the art, current challenges, and future directions'
     year: '2018'
   FZi4M7kAAAAJ:SdhP9T11ey4C:
@@ -382,7 +382,7 @@ papers:
     title: Sound Spatialization
     year: '2024'
   FZi4M7kAAAAJ:kRWSkSYxWN8C:
-    citations: 17
+    citations: 16
     title: 'Co-immersion in audio augmented virtuality: The case study of a static and approximated late reverberation algorithm'
     year: '2023'
   FZi4M7kAAAAJ:k_IJM867U9cC:
@@ -466,7 +466,7 @@ papers:
     title: Fitting pinna-related transfer functions to anthropometry for binaural sound rendering
     year: '2010'
   FZi4M7kAAAAJ:u5HHmVD_uO8C:
-    citations: 52
+    citations: 53
     title: Estimation and modeling of pinna-related transfer functions
     year: '2010'
   FZi4M7kAAAAJ:ufrVoPGSRksC:
