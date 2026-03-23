@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-03-23'
 papers:
   FZi4M7kAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -62,11 +62,11 @@ papers:
     title: Valutazione parametrica di un modello strutturale di orecchio esterno per il rendering binaurale del suono
     year: '2014'
   FZi4M7kAAAAJ:5ugPr518TE4C:
-    citations: 46
+    citations: 49
     title: 'The role of audio in immersive storytelling: a systematic review in cultural heritage'
     year: '2025'
   FZi4M7kAAAAJ:70eg2SAEIzsC:
-    citations: 237
+    citations: 238
     title: Mobile virtual reality for musical genre learning in primary education
     year: '2019'
   FZi4M7kAAAAJ:738O_yMBCRsC:
@@ -194,7 +194,7 @@ papers:
     title: 'Motor Planning Sensitivity to Affective Looming Sounds Within The Peri-personal Space: An Interplay of Exogenous and Endogenous Influences'
     year: '2025'
   FZi4M7kAAAAJ:RHpTSmoSYBkC:
-    citations: 174
+    citations: 176
     title: 'Sonic interactions in virtual reality: State of the art, current challenges, and future directions'
     year: '2018'
   FZi4M7kAAAAJ:SdhP9T11ey4C:
@@ -294,7 +294,7 @@ papers:
     title: IEEE 8th VR Workshop on Sonic Interactions for Virtual Environments
     year: '2025'
   FZi4M7kAAAAJ:aqlVkmm33-oC:
-    citations: 79
+    citations: 80
     title: Interactive spatial sonification for non-visual exploration of virtual maps
     year: '2016'
   FZi4M7kAAAAJ:b0M2c_1WBrUC:
