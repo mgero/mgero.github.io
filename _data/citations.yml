@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-25'
+  last_updated: '2026-03-30'
 papers:
   FZi4M7kAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -30,7 +30,7 @@ papers:
     title: A head-related transfer function model for real-time customized 3-D sound rendering
     year: '2011'
   FZi4M7kAAAAJ:35N4QoGY0k4C:
-    citations: 33
+    citations: 34
     title: Applying a single-notch metric to image-guided head-related transfer function selection for improved vertical localization
     year: '2019'
   FZi4M7kAAAAJ:3s1wT3WcHBgC:
@@ -38,7 +38,7 @@ papers:
     title: Reflections from five years of Sonic Interactions in Virtual Environments workshops
     year: '2020'
   FZi4M7kAAAAJ:4JMBOYKVnBMC:
-    citations: 51
+    citations: 52
     title: Do we need individual head-related transfer functions for vertical localization? The case study of a spectral notch distance metric
     year: '2018'
   FZi4M7kAAAAJ:4OULZ7Gr8RgC:
@@ -50,7 +50,7 @@ papers:
     title: Localization of self-generated synthetic footstep sounds on different walked-upon materials through headphones
     year: '2016'
   FZi4M7kAAAAJ:4fKUyHm3Qg0C:
-    citations: 18
+    citations: 19
     title: 'Classifying non-individual head-related transfer functions with a computational auditory model: Calibration and metrics'
     year: '2023'
   FZi4M7kAAAAJ:5awf1xo2G04C:
@@ -62,7 +62,7 @@ papers:
     title: Valutazione parametrica di un modello strutturale di orecchio esterno per il rendering binaurale del suono
     year: '2014'
   FZi4M7kAAAAJ:5ugPr518TE4C:
-    citations: 50
+    citations: 51
     title: 'The role of audio in immersive storytelling: a systematic review in cultural heritage'
     year: '2025'
   FZi4M7kAAAAJ:70eg2SAEIzsC:
@@ -106,7 +106,7 @@ papers:
     title: "Tecnologie per la didattica musicale: un'esperienza con la realt\xE0 virtuale"
     year: '2018'
   FZi4M7kAAAAJ:BrmTIyaxlBUC:
-    citations: 3
+    citations: 4
     title: Initial evaluation of an auditory-model-aided selection procedure for non-individual HRTFs
     year: '2023'
   FZi4M7kAAAAJ:CHSYGLWDkRkC:
@@ -258,7 +258,7 @@ papers:
     title: 'Spatialized Looming Sounds in Virtual Reality: Reaction Times and Localization Accuracy'
     year: '2025'
   FZi4M7kAAAAJ:XiSMed-E-HIC:
-    citations: 50
+    citations: 52
     title: A Bayesian model for human directional localization of broadband static sound sources
     year: '2023'
   FZi4M7kAAAAJ:XiVPGOgt02cC:
@@ -270,7 +270,7 @@ papers:
     title: A modular framework for the analysis and synthesis of head-related transfer functions
     year: '2013'
   FZi4M7kAAAAJ:Y5dfb0dijaUC:
-    citations: 20
+    citations: 21
     title: A survey on machine learning techniques for head-related transfer function individualization
     year: '2025'
   FZi4M7kAAAAJ:YFjsv_pBGBYC:
@@ -289,6 +289,10 @@ papers:
     citations: 31
     title: Influence of voxelization on finite difference time domain simulations of head-related transfer functions
     year: '2016'
+  FZi4M7kAAAAJ:ZuybSZzF8UAC:
+    citations: 0
+    title: "Perceptual evaluation of an auditory model\u2013based similarity metric for head-related transfer functions"
+    year: '2026'
   FZi4M7kAAAAJ:_B80troHkn4C:
     citations: 0
     title: IEEE 8th VR Workshop on Sonic Interactions for Virtual Environments
@@ -342,11 +346,11 @@ papers:
     title: An active learning procedure for the interaural time difference discrimination threshold
     year: '2023'
   FZi4M7kAAAAJ:eq2jaN3J8jMC:
-    citations: 1
+    citations: 2
     title: "Listener Acoustic Personalisation Challenge\u2013LAP24: Head-Related Transfer Function Dataset Harmonization"
     year: '2025'
   FZi4M7kAAAAJ:fPk4N6BV_jEC:
-    citations: 10
+    citations: 11
     title: Predicting directional sound-localization of human listeners in both horizontal and vertical dimensions
     year: '2020'
   FZi4M7kAAAAJ:fQNAKQ3IYiAC:
@@ -382,7 +386,7 @@ papers:
     title: Sound Spatialization
     year: '2024'
   FZi4M7kAAAAJ:kRWSkSYxWN8C:
-    citations: 16
+    citations: 17
     title: 'Co-immersion in audio augmented virtuality: The case study of a static and approximated late reverberation algorithm'
     year: '2023'
   FZi4M7kAAAAJ:k_IJM867U9cC:
@@ -490,7 +494,7 @@ papers:
     title: 'The SONICOM project: AI-driven immersive audio, from personalisation to modelling'
     year: Unknown Year
   FZi4M7kAAAAJ:zA6iFVUQeVQC:
-    citations: 26
+    citations: 27
     title: A minimal personalization of dynamic binaural synthesis with mixed structural modeling and scattering delay networks
     year: '2020'
   FZi4M7kAAAAJ:zYLM7Y9cAGgC:
