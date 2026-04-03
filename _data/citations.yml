@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-03'
 papers:
   FZi4M7kAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -50,7 +50,7 @@ papers:
     title: Localization of self-generated synthetic footstep sounds on different walked-upon materials through headphones
     year: '2016'
   FZi4M7kAAAAJ:4fKUyHm3Qg0C:
-    citations: 19
+    citations: 20
     title: 'Classifying non-individual head-related transfer functions with a computational auditory model: Calibration and metrics'
     year: '2023'
   FZi4M7kAAAAJ:5awf1xo2G04C:
@@ -62,7 +62,7 @@ papers:
     title: Valutazione parametrica di un modello strutturale di orecchio esterno per il rendering binaurale del suono
     year: '2014'
   FZi4M7kAAAAJ:5ugPr518TE4C:
-    citations: 51
+    citations: 52
     title: 'The role of audio in immersive storytelling: a systematic review in cultural heritage'
     year: '2025'
   FZi4M7kAAAAJ:70eg2SAEIzsC:
@@ -86,7 +86,7 @@ papers:
     title: Audio 3D e ancoraggio sonoro per l'esplorazione multimodale di ambienti virtuali
     year: '2014'
   FZi4M7kAAAAJ:9vf0nzSNQJEC:
-    citations: 9
+    citations: 10
     title: 'Listener acoustic personalisation challenge-LAP24: Head-related transfer function upsampling'
     year: '2025'
   FZi4M7kAAAAJ:9yKSN-GCB0IC:
@@ -106,7 +106,7 @@ papers:
     title: "Tecnologie per la didattica musicale: un'esperienza con la realt\xE0 virtuale"
     year: '2018'
   FZi4M7kAAAAJ:BrmTIyaxlBUC:
-    citations: 4
+    citations: 5
     title: Initial evaluation of an auditory-model-aided selection procedure for non-individual HRTFs
     year: '2023'
   FZi4M7kAAAAJ:CHSYGLWDkRkC:
@@ -170,7 +170,7 @@ papers:
     title: Personalization support for binaural headphone reproduction in web browsers
     year: '2015'
   FZi4M7kAAAAJ:Mojj43d5GZwC:
-    citations: 13
+    citations: 14
     title: 'Technical report: SONICOM/IEEE listener acoustic personalisation (LAP) challenge-2024'
     year: '2024'
   FZi4M7kAAAAJ:N5tVd3kTz84C:
@@ -186,7 +186,7 @@ papers:
     title: Sonic interactions in virtual environments
     year: '2023'
   FZi4M7kAAAAJ:P5F9QuxV20EC:
-    citations: 3
+    citations: 4
     title: 'SofaMyRoom: a fast and multiplatform" shoebox" room simulator for binaural room impulse response dataset generation'
     year: '2021'
   FZi4M7kAAAAJ:PELIpwtuRlgC:
@@ -234,7 +234,7 @@ papers:
     title: Multimodal exploration of virtual objects with a spatialized anchor sound
     year: '2014'
   FZi4M7kAAAAJ:V3AGJWp-ZtQC:
-    citations: 11
+    citations: 12
     title: Shaping the auditory peripersonal space with motor planning in immersive virtual reality
     year: '2023'
   FZi4M7kAAAAJ:VL0QpB8kHFEC:
@@ -258,7 +258,7 @@ papers:
     title: 'Spatialized Looming Sounds in Virtual Reality: Reaction Times and Localization Accuracy'
     year: '2025'
   FZi4M7kAAAAJ:XiSMed-E-HIC:
-    citations: 52
+    citations: 53
     title: A Bayesian model for human directional localization of broadband static sound sources
     year: '2023'
   FZi4M7kAAAAJ:XiVPGOgt02cC:
@@ -270,7 +270,7 @@ papers:
     title: A modular framework for the analysis and synthesis of head-related transfer functions
     year: '2013'
   FZi4M7kAAAAJ:Y5dfb0dijaUC:
-    citations: 21
+    citations: 22
     title: A survey on machine learning techniques for head-related transfer function individualization
     year: '2025'
   FZi4M7kAAAAJ:YFjsv_pBGBYC:
@@ -314,7 +314,7 @@ papers:
     title: Navigate as a bat. real-time echolocation system in virtual reality
     year: '2018'
   FZi4M7kAAAAJ:bnK-pcrLprsC:
-    citations: 3
+    citations: 4
     title: Effects of binaural rendering personalisation and reverberation on speech-on-speech masking
     year: '2024'
   FZi4M7kAAAAJ:d1gkVwhDpl0C:
@@ -386,7 +386,7 @@ papers:
     title: Sound Spatialization
     year: '2024'
   FZi4M7kAAAAJ:kRWSkSYxWN8C:
-    citations: 17
+    citations: 16
     title: 'Co-immersion in audio augmented virtuality: The case study of a static and approximated late reverberation algorithm'
     year: '2023'
   FZi4M7kAAAAJ:k_IJM867U9cC:
