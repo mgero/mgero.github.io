@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-05-06'
 papers:
   FZi4M7kAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -70,7 +70,7 @@ papers:
     title: 'The role of audio in immersive storytelling: a systematic review in cultural heritage'
     year: '2025'
   FZi4M7kAAAAJ:70eg2SAEIzsC:
-    citations: 243
+    citations: 245
     title: Mobile virtual reality for musical genre learning in primary education
     year: '2019'
   FZi4M7kAAAAJ:738O_yMBCRsC:
@@ -90,7 +90,7 @@ papers:
     title: Audio 3D e ancoraggio sonoro per l'esplorazione multimodale di ambienti virtuali
     year: '2014'
   FZi4M7kAAAAJ:9vf0nzSNQJEC:
-    citations: 11
+    citations: 13
     title: 'Listener acoustic personalisation challenge-LAP24: Head-related transfer function upsampling'
     year: '2025'
   FZi4M7kAAAAJ:9yKSN-GCB0IC:
@@ -176,7 +176,7 @@ papers:
   FZi4M7kAAAAJ:Mojj43d5GZwC:
     citations: 14
     title: 'Technical report: SONICOM/IEEE listener acoustic personalisation (LAP) challenge-2024'
-    year: '2024'
+    year: '2025'
   FZi4M7kAAAAJ:N5tVd3kTz84C:
     citations: 0
     title: 219 Designing sonic interactions in intelligent reality with egocentric audio technologies
@@ -202,7 +202,7 @@ papers:
     title: Applied Perception
     year: '2025'
   FZi4M7kAAAAJ:RHpTSmoSYBkC:
-    citations: 181
+    citations: 182
     title: 'Sonic interactions in virtual reality: State of the art, current challenges, and future directions'
     year: '2018'
   FZi4M7kAAAAJ:Se3iqnhoufwC:
@@ -242,7 +242,7 @@ papers:
     title: Shaping the auditory peripersonal space with motor planning in immersive virtual reality
     year: '2023'
   FZi4M7kAAAAJ:VL0QpB8kHFEC:
-    citations: 20
+    citations: 21
     title: 'Sonic Interactions in Virtual Environments: the egocentric audio perspective of the digital twin'
     year: '2022'
   FZi4M7kAAAAJ:VOx2b1Wkg3QC:
@@ -262,11 +262,11 @@ papers:
     title: 'Spatialized Looming Sounds in Virtual Reality: Reaction Times and Localization Accuracy'
     year: '2025'
   FZi4M7kAAAAJ:XiSMed-E-HIC:
-    citations: 54
+    citations: 55
     title: A Bayesian model for human directional localization of broadband static sound sources
     year: '2023'
   FZi4M7kAAAAJ:XiVPGOgt02cC:
-    citations: 1
+    citations: 2
     title: Designing sonic interactions in intelligent reality with egocentric audio technologies
     year: '2024'
   FZi4M7kAAAAJ:Y0pCki6q_DkC:
@@ -274,7 +274,7 @@ papers:
     title: A modular framework for the analysis and synthesis of head-related transfer functions
     year: '2013'
   FZi4M7kAAAAJ:Y5dfb0dijaUC:
-    citations: 23
+    citations: 24
     title: A survey on machine learning techniques for head-related transfer function individualization
     year: '2025'
   FZi4M7kAAAAJ:YFjsv_pBGBYC:
@@ -325,6 +325,10 @@ papers:
     citations: 7
     title: Customized 3D sound for innovative interaction design
     year: '2011'
+  FZi4M7kAAAAJ:dQ2og3OwTAUC:
+    citations: 0
+    title: 'Pitch training for children with cochlear implants: Negotiating clinical validity through mobile game-based design'
+    year: '2026'
   FZi4M7kAAAAJ:dhFuZR0502QC:
     citations: 12
     title: Sonic Interactions in Virtual Environments
@@ -342,11 +346,11 @@ papers:
     title: Mixed structural modeling of head-related transfer functions for customized binaural audio delivery
     year: '2013'
   FZi4M7kAAAAJ:eflP2zaiRacC:
-    citations: 4
+    citations: 6
     title: An active learning procedure for the interaural time difference discrimination threshold
     year: '2023'
   FZi4M7kAAAAJ:eq2jaN3J8jMC:
-    citations: 2
+    citations: 3
     title: "Listener Acoustic Personalisation Challenge\u2013LAP24: Head-Related Transfer Function Dataset Harmonization"
     year: '2025'
   FZi4M7kAAAAJ:fPk4N6BV_jEC:
