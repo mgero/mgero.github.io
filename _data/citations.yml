@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-05-22'
 papers:
   FZi4M7kAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -38,7 +38,7 @@ papers:
     title: Applying a single-notch metric to image-guided head-related transfer function selection for improved vertical localization
     year: '2019'
   FZi4M7kAAAAJ:3s1wT3WcHBgC:
-    citations: 15
+    citations: 16
     title: Reflections from five years of Sonic Interactions in Virtual Environments workshops
     year: '2020'
   FZi4M7kAAAAJ:4JMBOYKVnBMC:
@@ -58,7 +58,7 @@ papers:
     title: 'Classifying non-individual head-related transfer functions with a computational auditory model: Calibration and metrics'
     year: '2023'
   FZi4M7kAAAAJ:5awf1xo2G04C:
-    citations: 1
+    citations: 2
     title: 'Strong and weak Head-related transfer functions: The eHRTF analytical framework'
     year: '2025'
   FZi4M7kAAAAJ:5nxA0vEk-isC:
@@ -90,7 +90,7 @@ papers:
     title: Audio 3D e ancoraggio sonoro per l'esplorazione multimodale di ambienti virtuali
     year: '2014'
   FZi4M7kAAAAJ:9vf0nzSNQJEC:
-    citations: 14
+    citations: 15
     title: 'Listener acoustic personalisation challenge-LAP24: Head-related transfer function upsampling'
     year: '2025'
   FZi4M7kAAAAJ:9yKSN-GCB0IC:
@@ -202,7 +202,7 @@ papers:
     title: Applied Perception
     year: '2025'
   FZi4M7kAAAAJ:RHpTSmoSYBkC:
-    citations: 185
+    citations: 186
     title: 'Sonic interactions in virtual reality: State of the art, current challenges, and future directions'
     year: '2018'
   FZi4M7kAAAAJ:Se3iqnhoufwC:
@@ -225,6 +225,10 @@ papers:
     citations: 111
     title: On the relation between Pinna Reflection Patterns and Head-Related Transfer Function Features
     year: '2013'
+  FZi4M7kAAAAJ:UHK10RUVsp4C:
+    citations: 0
+    title: 'Machine Learning Techniques for Head-Related Transfer Function Individualization: A Comprehensive Survey'
+    year: '2026'
   FZi4M7kAAAAJ:ULOm3_A8WrAC:
     citations: 2
     title: SUBJECTIVE EVALUATION OF A LOW-ORDER PARAMETRIC FILTER MODEL OF THE PINNA FOR BINAURAL SOUND REN-DERING
@@ -350,7 +354,7 @@ papers:
     title: An active learning procedure for the interaural time difference discrimination threshold
     year: '2023'
   FZi4M7kAAAAJ:eq2jaN3J8jMC:
-    citations: 3
+    citations: 4
     title: "Listener Acoustic Personalisation Challenge\u2013LAP24: Head-Related Transfer Function Dataset Harmonization"
     year: '2025'
   FZi4M7kAAAAJ:fPk4N6BV_jEC:
