@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-05-27'
 papers:
   FZi4M7kAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -90,7 +90,7 @@ papers:
     title: Audio 3D e ancoraggio sonoro per l'esplorazione multimodale di ambienti virtuali
     year: '2014'
   FZi4M7kAAAAJ:9vf0nzSNQJEC:
-    citations: 15
+    citations: 14
     title: 'Listener acoustic personalisation challenge-LAP24: Head-related transfer function upsampling'
     year: '2025'
   FZi4M7kAAAAJ:9yKSN-GCB0IC:
@@ -176,7 +176,7 @@ papers:
   FZi4M7kAAAAJ:Mojj43d5GZwC:
     citations: 14
     title: 'Technical report: SONICOM/IEEE listener acoustic personalisation (LAP) challenge-2024'
-    year: '2025'
+    year: '2024'
   FZi4M7kAAAAJ:N5tVd3kTz84C:
     citations: 0
     title: 219 Designing sonic interactions in intelligent reality with egocentric audio technologies
@@ -354,7 +354,7 @@ papers:
     title: An active learning procedure for the interaural time difference discrimination threshold
     year: '2023'
   FZi4M7kAAAAJ:eq2jaN3J8jMC:
-    citations: 4
+    citations: 3
     title: "Listener Acoustic Personalisation Challenge\u2013LAP24: Head-Related Transfer Function Dataset Harmonization"
     year: '2025'
   FZi4M7kAAAAJ:fPk4N6BV_jEC:
