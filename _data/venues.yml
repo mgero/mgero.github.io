@@ -24,6 +24,10 @@
   url: https://www.ieeeismar.net/
   color: "#b012b8"
 
+"JASA":
+  url: https://pubs.aip.org/asa/jasa
+  color: "#b012b8"
+
 "JASA EL":
   url: https://pubs.aip.org/asa/jel
   color: "#b012b8"
@@ -37,6 +41,11 @@
   color: "#b012b8"
 
 "PPS":
+  url: https://journals.viamedica.pl/philosophical_problems_in_science
+  color: "#b012b8"
+
+"SciRep":
+  url: https://www.nature.com/srep/
   color: "#b012b8"
 
 "SPM":
