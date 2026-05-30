@@ -16,6 +16,10 @@
   url: https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies
   color: "#b012b8"
 
+"IJCCI":
+  url: https://www.sciencedirect.com/journal/international-journal-of-child-computer-interaction
+  color: "#b012b8"
+
 "ISMAR":
   url: https://www.ieeeismar.net/
   color: "#b012b8"
@@ -30,6 +34,9 @@
 
 "OJSP":
   url: https://signalprocessingsociety.org/publications-resources/ieee-open-journal-signal-processing
+  color: "#b012b8"
+
+"PPS":
   color: "#b012b8"
 
 "SPM":
