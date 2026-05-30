@@ -32,18 +32,20 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Senior Member of IEEE, and I received my M.Sc. degree in 2009 and my Ph.D. degree in 2014.
-Between 2014 and 2021, I was an Assistant Professor at the University of Udine. I was also a Postdoctoral Researcher at Aalborg University, Copenhagen, Denmark.
+I am an Associate Professor in Computer Engineering at the University of Padova, a Visiting Researcher at Imperial College London, and a Senior Member of IEEE. I received my M.Sc. degree in 2009 and my Ph.D. degree in 2014 from the University of Padova.
 
-Since 2015, I have been part of the organising committee of the
-[IEEE VR Workshop on Sonic Interactions for Virtual Environments (SIVE)](https://sive.create.aau.dk/) (chair of the 2018, 2020, and 2022 editions). I am currently an Associate Professor at the University of Padova, Padua, Italy, and I am also part of the coordination unit of the [EU-H2020 project SONICOM](https://www.sonicom.eu/principal-investigator/michele-geronazzo/) at Imperial College London. My research interests mainly include modeling and simulation of complex human-machine sonic interactions. I am also an
-Associate Editor for:
+My research lies at the intersection of human-computer interaction, immersive media, spatial audio, auditory interfaces, digital twins, and human-centered technologies for Industry 5.0. Before joining Padova in December 2021, I held research and academic positions at the University of Udine, Aalborg University, the University of Verona, and Imperial College London.
+
+I am part of the coordination unit of the [EU-H2020 project SONICOM](https://www.sonicom.eu/principal-investigator/michele-geronazzo/) at Imperial College London, a founding member of the inter-university centre CORDIMUS, a member of the Human Inspired Technologies Research Centre at the University of Padova, and president of the Department IT committee at the Department of Management and Engineering.
+
+Since 2015, I have been part of the organising committee of the [IEEE VR Workshop on Sonic Interactions for Virtual Environments (SIVE)](https://sive.create.aau.dk/) and chaired the 2018, 2020, and 2022 editions. I currently serve on the editorial boards of:
 
 - [IEEE Open Journal of Signal Processing](https://signalprocessingsociety.org/publications-resources/ieee-open-journal-signal-processing/about-open-journal-signal-processing)
 - [ACM Transactions on Applied Perception](http://tap.acm.org/)
 - Springer's journal [Multimedia Tools and Applications](https://link.springer.com/journal/11042)
+- [Virtual Reality & Intelligent Hardware](https://www.sciencedirect.com/journal/virtual-reality-and-intelligent-hardware)
 
-I am also Editor of the [Springer-Nature's Book Sonic Interactions in Virtual Environments](https://link.springer.com/book/10.1007/978-3-031-04021-4).
+I am also editor of the [Springer-Nature book Sonic Interactions in Virtual Environments](https://link.springer.com/book/10.1007/978-3-031-04021-4).
 
 I am Associate Chair within the International Program Committee of:
 
@@ -52,4 +54,6 @@ I am Associate Chair within the International Program Committee of:
 - [ACM Symposium on Virtual Reality Software and Technology (VRST)](https://vrst.acm.org/)
 - [ACM CHI Conference on Human Factors in Computing Systems (CHI)](https://chi.acm.org/)
 
-I was the co-recipient of six best paper/poster awards and co-author of more than 100 scientific publications.
+As of May 21, 2026, I am the author of 132 publications, with 1853 Google Scholar citations (h-index 22) and 1025 Scopus citations (h-index 18). I have delivered 37 conference talks and posters, including 10 invited talks, and 8 research seminars. I also act as evaluator for Horizon Europe project monitoring, the European Research Executive Agency, and funding bodies including the Independent Research Fund Denmark.
+
+Alongside academic research, I am active in technology transfer and public engagement. I founded ATENA Space s.r.l.s., an XR startup for digital health applications, and the project won the ICT category at Start Cup Veneto 2023.

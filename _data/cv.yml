@@ -6,8 +6,8 @@ cv:
   website: https://mgero.github.io
   summary: >
     My research sits at the intersection of computer science, acoustics, engineering,
-    and psychology, focusing on modelling and simulations of sonic interactions in
-    complex virtual and augmented reality systems.
+    and psychology, focusing on immersive media, spatial audio, auditory interfaces,
+    digital twins, and human-centered technologies for virtual, augmented, and mixed reality.
 
   sections:
     Personal Details:
@@ -18,6 +18,7 @@ cv:
       - bullet: "Since 12/2021: Associate Professor in Computer Engineering, Department of Engineering and Management, University of Padova, Italy."
       - bullet: "Since 2024: Member of the Human Inspired Technologies (HIT) Research Centre, University of Padova, Italy."
       - bullet: "Since 2021: Visiting Researcher, Dyson School of Design Engineering, Imperial College London, UK (coordination unit of SONICOM, Grant No. 101017743, H2020 RIA)."
+      - bullet: "Since 2025: Founding member and board member of CORDIMUS, the inter-university centre for musical instruments, digitalization, and cultural heritage."
 
     Previous Positions:
       - bullet: "2020-2021: Assistant Professor in Computer Science and Digital Media, Department of Humanities and Cultural Heritage, University of Udine, Italy."
@@ -35,11 +36,12 @@ cv:
       - bullet: "Book Editor of Sonic Interactions in Virtual Environments (Human-Computer Interaction Series, Springer Nature, Open Access, 2023)."
       - bullet: "Contribution to international standardization projects in acoustics, including SOFA (Spatially Oriented Format for Acoustics) and The Princeton Headphone Open Archive (PHOnA)."
       - bullet: "Research funded and developed with Cochlear R&D (UK), University of Verona, and Aalborg University across movement analysis, neurophysiological signal processing, and multimodal VR applications."
-      - bullet: "In 2021, appointed Associate Professor at the University of Padova supporting mechatronics education with focus on cyber-physical systems and robotics."
+      - bullet: "Since December 2021, Associate Professor at the University of Padova supporting teaching and research in mechatronics, cyber-physical systems, immersive technologies, and robotics."
       - bullet: "IEEE elevated membership to Senior Member status in 2019 for technological contributions to engineering."
       - bullet: "In 2020, started a SONICOM network of excellence at Imperial College London within the EIC Pathfinder Challenges scheme."
-      - bullet: "Associate Editor roles: ACM Transactions on Applied Perception (2023), IEEE Open Journal of Signal Processing (2024), Multimedia Tools and Applications (2025)."
+      - bullet: "Associate Editor and editorial board roles: ACM Transactions on Applied Perception (2023), IEEE Open Journal of Signal Processing (2024), Multimedia Tools and Applications (2025), Virtual Reality & Intelligent Hardware (2026)."
       - bullet: "Chair of the first IEEE Signal Processing Society Listener Acoustic Personalization (LAP) Challenge edition (2023-2024)."
+      - bullet: "As of May 21, 2026: 132 publications, 1853 Google Scholar citations (h-index 22), and 1025 Scopus citations (h-index 18)."
 
     Knowledge Transfer:
       - bullet: "2024: Founder of ATENA Space s.r.l.s., a startup developing an XR-based digital ecosystem for e-health dental practices."
@@ -47,7 +49,7 @@ cv:
 
     Peer Recognition:
       - bullet: "Memberships of scientific societies: ACM and SIGCHI (since 2022), IEEE Senior Member (since 2017), EAA associate member and Technical Committee contributor (since 2013)."
-      - bullet: "Since 2011, delivered more than 20 talks (including invited talks and keynote lectures) at international and national conferences."
+      - bullet: "As of May 2026, delivered 37 talks and posters at international and national conferences, including 10 invited talks, plus 8 research seminars."
       - bullet: "Selected invited talks include Huawei Tech Arena Munich (2025), Huawei Munich Research Center (2022), Acoustics of Ancient Theatres Symposium (2021), ICA Aachen (2019), and Imperial College London (2019)."
 
     Honors and Funding:
@@ -63,8 +65,10 @@ cv:
       - label: Organisation of Scientific Meetings
         details: "Since 2023 chair and main organizer of the IEEE SPS Listener Acoustic Personalization (LAP) Challenge; since 2015 organizing committee member of IEEE VR SIVE workshops (chair in 2018, 2020, 2022); local organizing committee of Sound and Music Computing 2011."
       - label: Institutional Responsibilities
-        details: "Since 2024 board member of the Ph.D. School in Mechatronics and Product Innovation Engineering (University of Padova); 2020-2024 founder and board member of the Ph.D. School in Computer Science and Artificial Intelligence (University of Udine); 2017-2019 examinations board member for MSc Sound and Music Computing (Aalborg University)."
+        details: "Since 2025 president of the Department IT committee and member of the CONVECS focus group; since 2024 board member of the Ph.D. School in Mechatronics and Product Innovation Engineering (University of Padova); 2020-2024 founder and board member of the Ph.D. School in Computer Science and Artificial Intelligence (University of Udine); 2017-2019 examinations board member for MSc Sound and Music Computing (Aalborg University)."
       - label: Supervision of Graduate Students and Postdoctoral Fellows
-        details: "Since 2023 PI of one postdoc and two research associates; since 2018 supervision of four Ph.D. students in psychoacoustics, VR, machine learning, and HCI, including collaborations with Imperial College London, University of Udine, and University of Padova."
+        details: "As of May 2026: supervision of four Ph.D. students (one completed and three ongoing), about 47 thesis projects, one postdoc, two research assistants, and five visiting students, including collaborations with Imperial College London, University of Udine, and University of Padova."
       - label: Reviewing Activities
-        details: "Editorial board and associate editor roles in Multimedia Tools and Applications (since 2025), IEEE Open Journal of Signal Processing (since 2024), ACM Transactions on Applied Perception (since 2023), and Frontiers in Virtual Reality (since 2019), with extensive conference and journal reviewing across IEEE VR, ISMAR, VRST, CHI, and top-tier audio and HCI venues."
+        details: "Editorial board and associate editor roles in Virtual Reality & Intelligent Hardware (since 2026), Multimedia Tools and Applications (since 2025), IEEE Open Journal of Signal Processing (since 2024), ACM Transactions on Applied Perception (since 2023), and Frontiers in Virtual Reality (since 2019), with extensive conference and journal reviewing across IEEE VR, ISMAR, VRST, CHI, and top-tier audio and HCI venues."
+      - label: Research Evaluation and Service
+        details: "Project evaluator for Horizon Europe project monitoring, the European Research Executive Agency (REA), and funding bodies including the Independent Research Fund Denmark (DFF)."
