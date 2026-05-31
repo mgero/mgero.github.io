@@ -36,7 +36,7 @@ I am an Associate Professor in Computer Engineering at the University of Padova,
 
 My research lies at the intersection of human-computer interaction, immersive media, spatial audio, auditory interfaces, digital twins, and human-centered technologies for Industry 5.0. Before joining Padova in December 2021, I held research and academic positions at the University of Udine, Aalborg University, the University of Verona, and Imperial College London.
 
-I am part of the coordination unit of the [EU-H2020 project SONICOM](https://www.sonicom.eu/principal-investigator/michele-geronazzo/) at Imperial College London, a founding member of the inter-university centre CORDIMUS, a member of the Human Inspired Technologies Research Centre at the University of Padova, and president of the Department IT committee at the Department of Management and Engineering.
+I am part of the coordination unit of the [EU-H2020 project SONICOM](https://www.sonicom.eu/principal-investigator/michele-geronazzo/) at Imperial College London, a founding member of the inter-university centre CORDIMUS, a member of the [Human Inspired Technologies Research Centre](http://hit.psy.unipd.it/Members) at the University of Padova, and president of the Department IT committee at the Department of Management and Engineering.
 
 Since 2015, I have been part of the organising committee of the [IEEE VR Workshop on Sonic Interactions for Virtual Environments (SIVE)](https://sive.create.aau.dk/) and chaired the 2018, 2020, and 2022 editions. I currently serve on the editorial boards of:
 
@@ -56,4 +56,4 @@ I am Associate Chair within the International Program Committee of:
 
 As of May 21, 2026, I am the author of 132 publications, with 1853 Google Scholar citations (h-index 22) and 1025 Scopus citations (h-index 18). I have delivered 37 conference talks and posters, including 10 invited talks, and 8 research seminars. I also act as evaluator for Horizon Europe project monitoring, the European Research Executive Agency, and funding bodies including the Independent Research Fund Denmark.
 
-Alongside academic research, I am active in technology transfer and public engagement. I founded ATENA Space s.r.l.s., an XR startup for digital health applications, and the project won the ICT category at Start Cup Veneto 2023.
+Alongside academic research, I am active in technology transfer and public engagement. I founded [ATENA Space s.r.l.s.](https://www.atenaspace.com/), an XR startup for digital health applications, and the project won the ICT category at Start Cup Veneto 2023.
