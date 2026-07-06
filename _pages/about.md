@@ -44,14 +44,14 @@ Alongside academic research, I am active in technology transfer and public engag
 
 ## Professional Activities
 
-- Editorial Board, [Virtual Reality & Intelligent Hardware](https://www.sciencedirect.com/journal/virtual-reality-and-intelligent-hardware) 2026 - 
-- Associate Chair, [IEEE Conference on Virtual Reality and 3D User Interfaces (VR)](https://ieeevr.org/) 2026 - 
-- Associate Chair, [IEEE/ACM International Symposium on Mixed and Augmented Reality (ISMAR)](https://ismar.net/) 2026 - 
-- Associate Editor, [Multimedia Tools and Applications](https://link.springer.com/journal/11042) 2025 -
-- Associate Editor, [IEEE Open Journal of Signal Processing](https://signalprocessingsociety.org/publications-resources/ieee-open-journal-signal-processing/about-open-journal-signal-processing) 2024 -  
-- Associate Chair, [ACM CHI Conference on Human Factors in Computing Systems (CHI)](https://chi.acm.org/) 2024 - 
-- Associate Editor, [ACM Transactions on Applied Perception](http://tap.acm.org/) 2023 - 
+- Editorial Board, [Virtual Reality & Intelligent Hardware](https://www.sciencedirect.com/journal/virtual-reality-and-intelligent-hardware) sice 2026
+- Associate Chair, [IEEE Conference on Virtual Reality and 3D User Interfaces (VR)](https://ieeevr.org/) since 2026 
+- Associate Chair, [IEEE/ACM International Symposium on Mixed and Augmented Reality (ISMAR)](https://ismar.net/) since 2026
+- Associate Editor, [Multimedia Tools and Applications](https://link.springer.com/journal/11042) since 2025
+- Associate Editor, [IEEE Open Journal of Signal Processing](https://signalprocessingsociety.org/publications-resources/ieee-open-journal-signal-processing/about-open-journal-signal-processing) since 2024  
+- Associate Chair, [ACM CHI Conference on Human Factors in Computing Systems (CHI)](https://chi.acm.org/) since 2024 
+- Associate Editor, [ACM Transactions on Applied Perception](http://tap.acm.org/) since 2023 
 - Editor, the [Springer-Nature book Sonic Interactions in Virtual Environments](https://link.springer.com/book/10.1007/978-3-031-04021-4) 2023
-- Associate Chair, [ACM Symposium on Virtual Reality Software and Technology (VRST)](https://vrst.acm.org/) 2023 - 
+- Associate Chair, [ACM Symposium on Virtual Reality Software and Technology (VRST)](https://vrst.acm.org/) since 2023 
 - Chair, [IEEE VR Workshop on Sonic Interactions for Virtual Environments (SIVE)](https://sive.create.aau.dk/), 2018, 2020, and 2022
 - Organising committee member, [IEEE VR Workshop on Sonic Interactions for Virtual Environments (SIVE)](https://sive.create.aau.dk/), since 2015
