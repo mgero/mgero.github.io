@@ -64,5 +64,6 @@ As of May 21, 2026, I am the author of 132 publications, with 1853 Google Schola
 - Organising committee member, [IEEE VR Workshop on Sonic Interactions for Virtual Environments (SIVE)](https://sive.create.aau.dk/), since 2015
 
 ## technology transfer
+
 - Founder of [ATENA Space s.r.l.s.](https://www.atenaspace.com/), an XR startup for digital health applications, since 2024,
-- Business plan competition winner, [ATENA Virtual Assistant][https://veneto.italiaeconomy.it/start-cup-veneto-2023-i-vincitori/] won the ICT category at Start Cup Veneto 2023.
+- Business plan competition winner, [ATENA Virtual Assistant][https://veneto.italiaeconomy.it/start-cup-veneto-2023-i-vincitori] won the ICT category at Start Cup Veneto 2023.
