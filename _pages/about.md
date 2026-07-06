@@ -40,7 +40,6 @@ I am part of the coordination unit of the [EU-H2020 project SONICOM](https://www
 
 As of May 21, 2026, I am the author of 132 publications, with 1853 Google Scholar citations (h-index 22) and 1025 Scopus citations (h-index 18). I have delivered 37 conference talks and posters, including 10 invited talks, and 8 research seminars. I also act as evaluator for Horizon Europe (EIC) project monitoring, the European Research Executive (ERC) Agency, and funding bodies including the Independent Research Fund Denmark and the Bayreuth Humboldt Centre.
 
-Alongside academic research, I am active in technology transfer and public engagement. I founded [ATENA Space s.r.l.s.](https://www.atenaspace.com/), an XR startup for digital health applications, and the project won the ICT category at Start Cup Veneto 2023.
 
 ## scientific societies
 
