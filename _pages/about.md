@@ -42,7 +42,7 @@ As of May 21, 2026, I am the author of 132 publications, with 1853 Google Schola
 
 Alongside academic research, I am active in technology transfer and public engagement. I founded [ATENA Space s.r.l.s.](https://www.atenaspace.com/), an XR startup for digital health applications, and the project won the ICT category at Start Cup Veneto 2023.
 
-## Professional Activities
+## professional activities
 
 - Editorial Board, [Virtual Reality & Intelligent Hardware](https://www.sciencedirect.com/journal/virtual-reality-and-intelligent-hardware) sice 2026
 - Associate Chair, [IEEE Conference on Virtual Reality and 3D User Interfaces (VR)](https://ieeevr.org/) since 2026 
