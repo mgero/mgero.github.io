@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LAP Challenge 2024
-role: PI
+role: PI Coordinator
 description: Listener Acoustic Personalisation Challenge sponsored by IEEE SPS.
 img: /assets/img/projects/lap-ieee-sps-logo.png
 importance: 3
