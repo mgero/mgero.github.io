@@ -1,7 +1,8 @@
 ---
 layout: page
 title: S-TWIN
-description: PI Coordinator. Auditory digital twin of a cochlear implant (PRIN 2022).
+role: PI Coordinator
+description: Auditory digital twin of a cochlear implant (PRIN 2022).
 img: /assets/img/projects/stwin-hero.jpeg
 importance: 2
 category: research

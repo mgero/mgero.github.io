@@ -1,7 +1,8 @@
 ---
 layout: page
 title: PADVA
-description: Project Manager. Personal Auditory Displays for Virtual Acoustics (University of Padua).
+role: Project Manager
+description: Personal Auditory Displays for Virtual Acoustics (University of Padua).
 img: /assets/img/projects/padva_fb.jpg
 importance: 5
 category: research
