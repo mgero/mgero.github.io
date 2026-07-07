@@ -51,22 +51,22 @@ ninja.data = [{
               window.location.href = "/books/sonic-interactions-in-virtual-environments/";
             },},{id: "projects-sonicom",
           title: 'SONICOM',
-          description: "H2020 FET-Proactive project on auditory-based social interaction in AR/VR.",
+          description: "Co-PI. H2020 FET-Proactive project on auditory-based social interaction in AR/VR.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-s-twin",
           title: 'S-TWIN',
-          description: "Auditory digital twin of a cochlear implant (PRIN 2022).",
+          description: "PI Coordinator. Auditory digital twin of a cochlear implant (PRIN 2022).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-lap-challenge-2024",
           title: 'LAP Challenge 2024',
-          description: "Listener Acoustic Personalisation Challenge sponsored by IEEE SPS.",
+          description: "PI. Listener Acoustic Personalisation Challenge sponsored by IEEE SPS.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-padva",
           title: 'PADVA',
-          description: "Personal Auditory Displays for Virtual Acoustics (University of Padua).",
+          description: "Project Manager. Personal Auditory Displays for Virtual Acoustics (University of Padua).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "teachings-digital-humanities-lab",
