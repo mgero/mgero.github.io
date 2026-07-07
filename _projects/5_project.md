@@ -1,13 +1,13 @@
 ---
 layout: page
 title: PADVA
-description: Personal Auditory Displays for Virtual Acoustics (University of Padua).
+description: Project Manager. Personal Auditory Displays for Virtual Acoustics (University of Padua).
 img: /assets/img/projects/padva_fb.jpg
 importance: 5
 category: research
 ---
 
-Project leader for PADVA, a University of Padua internal grant on personal auditory displays
+Project Manager for PADVA, a University of Padua internal grant on personal auditory displays
 for virtual acoustics.
 
 - Duration: March 2014-September 2016.
