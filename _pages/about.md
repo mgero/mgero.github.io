@@ -32,13 +32,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Associate Professor in Computer Engineering at the University of Padova, a Visiting Researcher at Imperial College London, and a Senior Member of IEEE. 
+My research lies at the intersection of human-computer interaction, immersive media, spatial audio, auditory interfaces, digital twins, and human-centered technologies for Industry 5.0. Before joining Padova in December 2021, I held research and academic positions at Imperial College London, Aalborg University, the University of Udine, and the University of Verona.
 
-My research lies at the intersection of human-computer interaction, immersive media, spatial audio, auditory interfaces, digital twins, and human-centered technologies for Industry 5.0. Before joining Padova in December 2021, I held research and academic positions at the University of Udine, Aalborg University, the University of Verona, and Imperial College London.
+I have been part of the coordination unit of the [EU-H2020 project SONICOM](https://www.sonicom.eu/principal-investigator/michele-geronazzo/) at Imperial College London, and a founding member of the inter-university centre COnservation, Restoration, DIgitalisation of Musical Instruments (CORDIMUS, ERC-fouded). I am a member of the [Human Inspired Technologies Research Centre](http://hit.psy.unipd.it/Members) at the University of Padova, and president of the Department IT committee at the Department of Management and Engineering - University of Padiva.
 
-I am part of the coordination unit of the [EU-H2020 project SONICOM](https://www.sonicom.eu/principal-investigator/michele-geronazzo/) at Imperial College London, a founding member of the inter-university centre COnservation, Restoration, DIgitalisation of Musical Instruments (CORDIMUS, ERC-fouded), a member of the [Human Inspired Technologies Research Centre](http://hit.psy.unipd.it/Members) at the University of Padova, and president of the Department IT committee at the Department of Management and Engineering.
+As of May 21, 2026, I am the author of 132 publications, with 1853 Google Scholar citations (h-index 22) and 1025 Scopus citations (h-index 18). I have delivered 37 conference talks and posters, including 10 invited talks, and 8 research seminars. 
 
-As of May 21, 2026, I am the author of 132 publications, with 1853 Google Scholar citations (h-index 22) and 1025 Scopus citations (h-index 18). I have delivered 37 conference talks and posters, including 10 invited talks, and 8 research seminars. I also act as evaluator for Horizon Europe (EIC) project monitoring, the European Research Executive (ERC) Agency, and funding bodies including the Independent Research Fund Denmark and the Bayreuth Humboldt Centre.
+I also act as evaluator for Horizon Europe (EIC) project monitoring, the European Research Executive (ERC) Agency, and funding bodies including the Independent Research Fund Denmark and the Bayreuth Humboldt Centre.
 
 
 ## scientific societies
