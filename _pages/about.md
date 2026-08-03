@@ -34,11 +34,11 @@ latest_posts:
 
 My research lies at the intersection of human-computer interaction, immersive media, spatial audio, auditory interfaces, digital twins, and human-centered technologies for Industry 5.0. Before joining Padova in December 2021, I held research and academic positions at Imperial College London, Aalborg University, the University of Udine, and the University of Verona.
 
-I have been part of the coordination unit of the [EU-H2020 project SONICOM](https://www.sonicom.eu/principal-investigator/michele-geronazzo/) at Imperial College London, and a founding member of the inter-university centre COnservation, Restoration, DIgitalisation of Musical Instruments (CORDIMUS, ERC-fouded). I am a member of the [Human Inspired Technologies Research Centre](http://hit.psy.unipd.it/Members) at the University of Padova, and president of the Department IT committee at the Department of Management and Engineering - University of Padiva.
+I have been part of the coordination unit of the [EU-H2020 project SONICOM](https://www.sonicom.eu/principal-investigator/michele-geronazzo/) at Imperial College London, and a founding member of the inter-university centre COnservation, Restoration, DIgitalisation of Musical Instruments (**CORDIMUS, ERC-fouded**). I am a member of the [Human Inspired Technologies Research Centre](http://hit.psy.unipd.it/Members) at the University of Padova, and president of the Department IT committee at the Department of Management and Engineering - University of Padiva.
 
 As of May 21, 2026, I am the author of 132 publications, with 1853 Google Scholar citations (h-index 22) and 1025 Scopus citations (h-index 18). I have delivered 37 conference talks and posters, including 10 invited talks, and 8 research seminars. 
 
-I also act as evaluator for Horizon Europe (EIC) project monitoring, the European Research Executive (ERC) Agency, and funding bodies including the Independent Research Fund Denmark and the Bayreuth Humboldt Centre.
+I also act as **evaluator for Horizon Europe (EIC)** project monitoring, the **European Research Executive (ERC) Agency**, and funding bodies including the Independent Research Fund Denmark and the Bayreuth Humboldt Centre.
 
 
 ## scientific societies
@@ -51,7 +51,7 @@ I also act as evaluator for Horizon Europe (EIC) project monitoring, the Europea
 
 ## professional activities
 
-- Editorial Board, [Virtual Reality & Intelligent Hardware](https://www.sciencedirect.com/journal/virtual-reality-and-intelligent-hardware), sice 2026
+- Editorial Board, [Virtual Reality & Intelligent Hardware](https://www.sciencedirect.com/journal/virtual-reality-and-intelligent-hardware), since 2026
 - Associate Chair, [IEEE Conference on Virtual Reality and 3D User Interfaces (VR)](https://ieeevr.org/), since 2026 
 - Associate Chair, [IEEE/ACM International Symposium on Mixed and Augmented Reality (ISMAR)](https://ismar.net/), since 2026
 - Associate Editor, [Multimedia Tools and Applications](https://link.springer.com/journal/11042), since 2025
