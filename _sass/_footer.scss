@@ -4,6 +4,7 @@
 
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
+  color: var(--global-footer-text-color);
   font-size: 0.75rem;
 
   .container {
@@ -24,6 +25,14 @@ footer.fixed-bottom {
       color: var(--global-footer-link-color);
       text-decoration: underline;
     }
+  }
+
+  .footer-text,
+  .footer-text a,
+  .footer-social,
+  .footer-social a,
+  .footer-social i::before {
+    color: var(--global-footer-text-color);
   }
 }
 
