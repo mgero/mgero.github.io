@@ -7,7 +7,11 @@ footer.fixed-bottom {
   font-size: 0.75rem;
 
   .container {
+    align-items: center;
     color: var(--global-footer-text-color);
+    display: flex;
+    gap: 0.75rem;
+    justify-content: center;
     padding-top: 9px;
     padding-bottom: 8px;
     text-align: center;
@@ -31,5 +35,50 @@ footer.sticky-bottom {
 
   .container {
     text-align: center;
+  }
+}
+
+footer .footer-social {
+  display: inline-flex;
+  flex-shrink: 0;
+  gap: 0.45rem;
+  font-size: 1rem;
+  line-height: 1;
+
+  a {
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
+  img,
+  svg {
+    height: 1rem;
+    width: 1rem;
+  }
+}
+
+footer.sticky-bottom .footer-social {
+  margin-bottom: 0.75rem;
+}
+
+@media (max-width: 575.98px) {
+  body:not(.sticky-bottom-footer) {
+    padding-bottom: 7rem;
+  }
+
+  footer.fixed-bottom {
+    font-size: 0.68rem;
+
+    .container {
+      flex-direction: column;
+      gap: 0.3rem;
+      padding-top: 7px;
+      padding-bottom: 6px;
+    }
   }
 }
