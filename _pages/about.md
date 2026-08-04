@@ -36,10 +36,13 @@ My research lies at the intersection of human-computer interaction, immersive me
 
 I have been part of the coordination unit of the [EU-H2020 project SONICOM](https://www.sonicom.eu/principal-investigator/michele-geronazzo/) at Imperial College London, and a founding member of the inter-university centre COnservation, Restoration, DIgitalisation of Musical Instruments (**CORDIMUS, ERC-fouded**). I am a member of the [Human Inspired Technologies Research Centre](http://hit.psy.unipd.it/Members) at the University of Padova, and president of the Department IT committee at the Department of Management and Engineering - University of Padiva.
 
-As of May 21, 2026, I am the author of 132 publications, with 1853 Google Scholar citations (h-index 22) and 1025 Scopus citations (h-index 18). I have delivered 37 conference talks and posters, including 10 invited talks, and 8 research seminars. 
+{% if site.data.citations.author %}
+As of {{ site.data.citations.metadata.last_updated | date: "%B %-d, %Y" }}, I am the author of {{ site.data.citations.author.publications }} publications, with {{ site.data.citations.author.citations }} Google Scholar citations (h-index {{ site.data.citations.author.h_index }}). As of May 2026, I have 1025 Scopus citations (h-index 18). I have delivered 37 conference talks and posters, including 10 invited talks, and 8 research seminars.
+{% else %}
+As of May 21, 2026, I am the author of 132 publications, with 1853 Google Scholar citations (h-index 22) and 1025 Scopus citations (h-index 18). I have delivered 37 conference talks and posters, including 10 invited talks, and 8 research seminars.
+{% endif %}
 
 I also act as **evaluator for Horizon Europe (EIC)** project monitoring, the **European Research Council (ERC)**, and funding bodies including the Independent Research Fund Denmark and the Bayreuth Humboldt Centre.
-
 
 ## scientific societies
 
@@ -52,14 +55,14 @@ I also act as **evaluator for Horizon Europe (EIC)** project monitoring, the **E
 ## professional activities
 
 - Editorial Board, [Virtual Reality & Intelligent Hardware](https://www.sciencedirect.com/journal/virtual-reality-and-intelligent-hardware), since 2026
-- Associate Chair, [IEEE Conference on Virtual Reality and 3D User Interfaces (VR)](https://ieeevr.org/), since 2026 
+- Associate Chair, [IEEE Conference on Virtual Reality and 3D User Interfaces (VR)](https://ieeevr.org/), since 2026
 - Associate Chair, [IEEE/ACM International Symposium on Mixed and Augmented Reality (ISMAR)](https://ismar.net/), since 2026
 - Associate Editor, [Multimedia Tools and Applications](https://link.springer.com/journal/11042), since 2025
-- Associate Editor, [IEEE Open Journal of Signal Processing](https://signalprocessingsociety.org/publications-resources/ieee-open-journal-signal-processing/about-open-journal-signal-processing) since 2024  
-- Associate Chair, [ACM CHI Conference on Human Factors in Computing Systems (CHI)](https://chi.acm.org/), since 2024 
-- Associate Editor, [ACM Transactions on Applied Perception](http://tap.acm.org/), since 2023 
+- Associate Editor, [IEEE Open Journal of Signal Processing](https://signalprocessingsociety.org/publications-resources/ieee-open-journal-signal-processing/about-open-journal-signal-processing) since 2024
+- Associate Chair, [ACM CHI Conference on Human Factors in Computing Systems (CHI)](https://chi.acm.org/), since 2024
+- Associate Editor, [ACM Transactions on Applied Perception](http://tap.acm.org/), since 2023
 - Editor, the [Springer-Nature book Sonic Interactions in Virtual Environments](https://link.springer.com/book/10.1007/978-3-031-04021-4), 2023
-- Associate Chair, [ACM Symposium on Virtual Reality Software and Technology (VRST)](https://vrst.acm.org/), since 2023 
+- Associate Chair, [ACM Symposium on Virtual Reality Software and Technology (VRST)](https://vrst.acm.org/), since 2023
 - Chair, [IEEE VR Workshop on Sonic Interactions for Virtual Environments (SIVE)](https://sive.create.aau.dk/), 2018, 2020, and 2022
 - Organising committee member, [IEEE VR Workshop on Sonic Interactions for Virtual Environments (SIVE)](https://sive.create.aau.dk/), since 2015
 

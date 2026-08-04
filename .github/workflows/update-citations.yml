@@ -2,10 +2,16 @@ name: Update Google Scholar Citations
 
 on:
   schedule:
-    - cron: "0 0 * * 1" # Monday
-    - cron: "0 0 * * 3" # Wednesday
-    - cron: "0 0 * * 5" # Friday
+    - cron: "0 23 * * *"
+      timezone: "Europe/Rome"
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-google-scholar-citations
+  cancel-in-progress: false
 
 jobs:
   update-citations:
@@ -14,9 +20,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      # See CUSTOMIZE.md for details on how to set up PAT for triggering subsequent workflows
-      #        with:
-      #          token: ${{ secrets.PAT }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -43,23 +46,20 @@ jobs:
           fi
 
       - name: Run citation update script
-        id: run_citation_update
-        shell: bash
         run: |
-          set +e
-          echo "🚀 Running citation update script (single attempt)..."
-          start_time=$(date)
-          timeout 90 python bin/update_scholar_citations.py
-          status=$?
-          end_time=$(date)
-          if [ $status -eq 0 ]; then
-            echo "✅ Citation update succeeded (started at $start_time, ended at $end_time)."
-            echo "✅ Citation update succeeded." >> $GITHUB_STEP_SUMMARY
+          echo "🚀 Updating Google Scholar metrics and publication identifiers..."
+          timeout 180 python bin/update_scholar_citations.py
+          echo "✅ Google Scholar update succeeded." >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Render updated CV
+        run: |
+          if git diff --quiet -- _data/cv.yml; then
+            echo "ℹ️ CV metrics did not change; skipping PDF rendering."
           else
-            echo "❌ Citation update script failed with exit code $status (started at $start_time, ended at $end_time)."
-            echo "❌ Citation update script failed with exit code $status." >> $GITHUB_STEP_SUMMARY
+            rendercv render _data/cv.yml --settings assets/rendercv/settings.yaml
+            rm -f assets/rendercv/rendercv_output/*.typ
+            echo "✅ CV PDF regenerated with current Scholar metrics." >> "$GITHUB_STEP_SUMMARY"
           fi
-          set -e
 
       - name: Save new citations.yml hash
         id: after
@@ -93,9 +93,9 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git add _data/citations.yml
+          git add _data/citations.yml _data/cv.yml _bibliography/papers.bib assets/rendercv/rendercv_output
           git diff --staged --quiet || (
             echo "📤 Committing and pushing changes..."
-            git commit -m "Update Google Scholar citations"
+            git commit -m "Update Google Scholar publication metrics"
             git push
           )
