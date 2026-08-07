@@ -35,10 +35,10 @@ My research lies at the intersection of human-computer interaction, immersive me
 
 I have been part of the coordination unit of the [EU-H2020 project SONICOM](https://www.sonicom.eu/principal-investigator/michele-geronazzo/) at Imperial College London, and a founding member of the inter-university centre COnservation, Restoration, DIgitalisation of Musical Instruments (**CORDIMUS, ERC-fouded**). I am a member of the [Human Inspired Technologies Research Centre](http://hit.psy.unipd.it/Members) at the University of Padova, and president of the Department IT committee at the Department of Management and Engineering - University of Padiva.
 
-{% if site.data.citations.author %}
-As of {{ site.data.citations.metadata.last_updated | date: "%B %-d, %Y" }}, I am the author of {{ site.data.citations.author.publications }} publications, with {{ site.data.citations.author.citations }} Google Scholar citations (h-index {{ site.data.citations.author.h_index }}). As of May 2026, I have 1025 Scopus citations (h-index 18). I have delivered 37 conference talks and posters, including 10 invited talks, and 8 research seminars.
+{% if site.openalex.enabled and site.data.openalex.author %}
+As of <span data-openalex-retrieved-date>{{ site.data.openalex.metadata.retrieved_at | date: "%B %-d, %Y" }}</span>, [OpenAlex](https://openalex.org/{{ site.data.openalex.author.id }}) indexes <span data-openalex-author-metric="works_count">{{ site.data.openalex.author.publications }}</span> of my publications, with <span data-openalex-author-metric="cited_by_count">{{ site.data.openalex.author.citations }}</span> citations (h-index <span data-openalex-author-metric="h_index">{{ site.data.openalex.author.h_index }}</span>). I have delivered 37 conference talks and posters, including 10 invited talks, and 8 research seminars.
 {% else %}
-As of May 21, 2026, I am the author of 132 publications, with 1853 Google Scholar citations (h-index 22) and 1025 Scopus citations (h-index 18). I have delivered 37 conference talks and posters, including 10 invited talks, and 8 research seminars.
+I have delivered 37 conference talks and posters, including 10 invited talks, and 8 research seminars.
 {% endif %}
 
 I also act as **evaluator for Horizon Europe (EIC)** project monitoring, the **European Research Council (ERC)**, and funding bodies including the Independent Research Fund Denmark and the Bayreuth Humboldt Centre.

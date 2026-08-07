@@ -1,9 +1,7 @@
 name: Update Google Scholar Citations
 
 on:
-  schedule:
-    - cron: "0 23 * * *"
-      timezone: "Europe/Rome"
+  # Kept as a manual fallback while live OpenAlex metrics are being tested.
   workflow_dispatch:
 
 permissions:

@@ -266,11 +266,21 @@
         {% assign entry_has_google_scholar_badge = true %}
       {% endif %}
 
+      {% assign entry_has_openalex_badge = false %}
+      {% if site.openalex.enabled %}
+        {% assign entry_has_openalex_badge = true %}
+      {% endif %}
+
       {% assign entry_has_inspirehep_badge = false %}
       {% if entry.inspirehep_id %}
         {% assign entry_has_inspirehep_badge = true %}
       {% endif %}
-      {% if entry_has_altmetric_badge or entry_has_dimensions_badge or entry_has_google_scholar_badge or entry_has_inspirehep_badge %}
+      {% if entry_has_altmetric_badge
+        or entry_has_dimensions_badge
+        or entry_has_google_scholar_badge
+        or entry_has_openalex_badge
+        or entry_has_inspirehep_badge
+      %}
         <div class="badges">
           {% if site.enable_publication_badges.altmetric and entry_has_altmetric_badge %}
             <span
@@ -335,6 +345,19 @@
                 src="https://img.shields.io/badge/scholar-{{ citation_count }}-4285F4?logo=googlescholar&labelColor=beige"
                 alt="{{ citation_count }} Google Scholar citations"
               >
+            </a>
+          {% endif %}
+          {% if site.enable_publication_badges.openalex and entry_has_openalex_badge %}
+            <a
+              class="openalex-citation-badge"
+              data-openalex-doi="{{ entry.doi | default: '' | escape }}"
+              data-openalex-title="{{ entry.title | strip_html | escape }}"
+              data-openalex-year="{{ entry.year | escape }}"
+              aria-label="OpenAlex citation link"
+              role="button"
+              hidden
+            >
+              <img alt="OpenAlex citations">
             </a>
           {% endif %}
           {% if site.enable_publication_badges.inspirehep and entry_has_inspirehep_badge %}
