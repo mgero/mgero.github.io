@@ -1,0 +1,18 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "mgero-citations",
+  "main": "src/index.js",
+  "compatibility_date": "2026-08-07",
+  "triggers": {
+    "crons": ["15 1 * * *"],
+  },
+  "kv_namespaces": [
+    {
+      "binding": "CITATION_CACHE",
+    },
+  ],
+  "vars": {
+    "ALLOWED_ORIGINS": "https://mgero.github.io,http://localhost:8080",
+    "SCHOLAR_AUTHOR_ID": "FZi4M7kAAAAJ",
+  },
+}

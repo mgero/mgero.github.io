@@ -194,14 +194,12 @@
 {% if site.enable_publication_badges.dimensions %}
   <script async src="https://badge.dimensions.ai/badge.js"></script>
 {% endif %}
-{% if site.openalex.enabled %}
+{% if site.citation_metrics.endpoint %}
   <script
     defer
-    id="openalex-metrics-script"
-    src="{{ '/assets/js/openalex-metrics.js' | relative_url | bust_file_cache }}"
-    data-author-id="{{ site.openalex.author_id }}"
-    data-cache-hours="{{ site.openalex.cache_hours }}"
-    data-contact-email="{{ site.openalex.contact_email }}"
+    id="citation-metrics-script"
+    src="{{ '/assets/js/citation-metrics.js' | relative_url | bust_file_cache }}"
+    data-endpoint="{{ site.citation_metrics.endpoint }}"
   ></script>
 {% endif %}
 

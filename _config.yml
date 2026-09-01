@@ -301,17 +301,12 @@ scholar:
 enable_publication_badges:
   altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
   dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
-  google_scholar: false # Static Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
-  openalex: true # Live OpenAlex citation badge (https://openalex.org/)
+  google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
   inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
-# Load author and publication metrics directly from OpenAlex in the browser.
-# The locally stored snapshot remains visible if the API is unavailable.
-openalex:
-  enabled: true
-  author_id: A5047177731
-  cache_hours: 24
-  contact_email: michele.geronazzo@unipd.it
+# Public Cloudflare Worker endpoint. It returns cached counters only; API keys stay in Worker secrets.
+citation_metrics:
+  endpoint:
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:

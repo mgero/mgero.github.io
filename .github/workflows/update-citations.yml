@@ -1,7 +1,7 @@
 name: Update Google Scholar Citations
 
 on:
-  # Kept as a manual fallback while live OpenAlex metrics are being tested.
+  # Manual fallback; live metrics are refreshed by the Cloudflare Worker.
   workflow_dispatch:
 
 permissions:
