@@ -83,7 +83,9 @@
     border-radius: 0.45rem;
     background-color: #1a1420;
     color: #fff;
+    font-family: Georgia, "Times New Roman", serif;
     line-height: 1.2;
+    white-space: nowrap;
     transition:
       background-color 0.2s ease,
       border-color 0.2s ease,
@@ -102,12 +104,6 @@
     width: 1.2rem;
     height: 1.2rem;
     flex: 0 0 auto;
-  }
-
-  .entangled-twins-label {
-    color: #fff;
-    font-family: Georgia, "Times New Roman", serif;
-    white-space: nowrap;
   }
 
   .navbar-nav .nav-item.active > .nav-link {
