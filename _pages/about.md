@@ -31,7 +31,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My research lies at the intersection of human-computer interaction, immersive media, spatial audio, auditory interfaces, digital twins, and human-centered technologies for Industry 5.0. Before joining Padova in December 2021, I held research and academic positions at Imperial College London, Aalborg University, the University of Udine, and the University of Verona.
+My research lies at the intersection of human-computer interaction, immersive media, spatial audio, auditory interfaces, digital twins, and human-centered technologies. Before joining Padova in December 2021, I held research and academic positions at Imperial College London, Aalborg University, the University of Udine, and the University of Verona.
 
 I am the main author of the [Entangled Twins](https://mgero.github.io/entangledtwins/) framework, an interdisciplinary and multiperspective research paradigm for Industry 5.0 and, more broadly, for [entangled human-computer interaction](https://frauenberger.name/research/entanglement-hci).
 
