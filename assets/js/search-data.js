@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-entangled-twins",
+          title: "Entangled Twins",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/https:/mgero.github.io/entangledtwins/";
+          },
         },{id: "books-sonic-interactions-in-virtual-environments",
           title: 'Sonic Interactions in Virtual Environments',
           description: "",
