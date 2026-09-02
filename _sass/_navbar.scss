@@ -82,7 +82,7 @@
     border: 1px solid #3a2f42;
     border-radius: 0.45rem;
     background-color: #1a1420;
-    color: #f2ead9;
+    color: #fff;
     line-height: 1.2;
     transition:
       background-color 0.2s ease,
@@ -93,7 +93,7 @@
     &:focus {
       border-color: #8b7fd6;
       background-color: #241b2c;
-      color: #f2ead9;
+      color: #fff;
       box-shadow: 0 0 0 2px rgba(139, 127, 214, 0.16);
     }
   }
