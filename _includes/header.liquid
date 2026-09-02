@@ -99,7 +99,7 @@
                 </li>
               {% else %}
                 {% assign parent_link = p.permalink | remove: 'index.html' %}
-                <li class="nav-item {% if page.url contains parent_link %}active{% endif %}">
+                <li class="nav-item{% if p.nav_style == 'entangled-twins' %} nav-item--entangled-twins{% endif %} {% if page.url contains parent_link %}active{% endif %}">
                   {%- if p.permalink contains '://' -%}
                     {%- assign url = p.permalink -%}
                   {%- elsif p.permalink contains '/blog/' -%}
@@ -107,8 +107,18 @@
                   {%- else -%}
                     {%- assign url = p.url -%}
                   {%- endif %}
-                  <a class="nav-link" href="{{ url | relative_url }}">
-                    {{- p.title }}
+                  <a class="nav-link{% if p.nav_style == 'entangled-twins' %} nav-link--entangled-twins{% endif %}" href="{{ url | relative_url }}">
+                    {%- if p.nav_style == 'entangled-twins' -%}
+                      <svg class="entangled-twins-logo" viewBox="0 0 40 40" fill="none" aria-hidden="true">
+                        <circle cx="16" cy="20" r="11" fill="#f2ead9"></circle>
+                        <circle cx="24" cy="20" r="11" fill="#f2ead9"></circle>
+                        <circle cx="16" cy="20" r="11" stroke="#e8734a" stroke-width="2.5"></circle>
+                        <circle cx="24" cy="20" r="11" stroke="#8b7fd6" stroke-width="2.5"></circle>
+                      </svg>
+                      <span class="entangled-twins-label">{{ p.title }}</span>
+                    {%- else -%}
+                      {{- p.title }}
+                    {%- endif -%}
                     {% if page.url contains p.url %}
                       <span class="sr-only">(current)</span>
                     {% endif %}

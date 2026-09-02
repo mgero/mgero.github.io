@@ -4,4 +4,5 @@ title: Entangled Twins
 permalink: https://mgero.github.io/entangledtwins/
 nav: true
 nav_order: 7
+nav_style: entangled-twins
 ---
