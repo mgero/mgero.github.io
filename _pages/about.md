@@ -33,7 +33,7 @@ latest_posts:
 
 My research lies at the intersection of human-computer interaction, immersive media, spatial audio, auditory interfaces, digital twins, and human-centered technologies for Industry 5.0. Before joining Padova in December 2021, I held research and academic positions at Imperial College London, Aalborg University, the University of Udine, and the University of Verona.
 
-I am the author of [Entangled Twins](https://mgero.github.io/entangledtwins/), an interdisciplinary research concept.
+I am the main author of the [Entangled Twins](https://mgero.github.io/entangledtwins/) framework, an interdisciplinary and multiperspective research paradigm for Industry 5.0 and, more broadly, for entangled human-computer interaction.
 
 I have been part of the coordination unit of the [EU-H2020 project SONICOM](https://www.sonicom.eu/principal-investigator/michele-geronazzo/) at Imperial College London, and a founding member of the inter-university centre COnservation, Restoration, DIgitalisation of Musical Instruments (**CORDIMUS, ERC-fouded**). I am a member of the [Human Inspired Technologies Research Centre](http://hit.psy.unipd.it/Members) at the University of Padova, and president of the Department IT committee at the Department of Management and Engineering - University of Padiva.
 
