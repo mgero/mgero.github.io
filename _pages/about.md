@@ -15,7 +15,7 @@ profile:
   more_info: >
     <p class="about-affiliation-line">Department of Management and Engineering</p>
     <p class="about-affiliation-line">University of Padua</p>
-    <p class="about-affiliation-line">Padua, Italy</p>
+    <p class="about-affiliation-line">Italy</p>
     <br />
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
