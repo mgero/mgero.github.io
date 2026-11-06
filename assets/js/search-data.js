@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "Publications generated from the CV bibliography.",
+          description: "Publications and the complete Google Scholar list with citation counts.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
