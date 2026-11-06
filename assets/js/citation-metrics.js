@@ -30,6 +30,7 @@
     const values = {
       citations: metrics.author?.citations,
       h_index: metrics.author?.h_index,
+      i10_index: metrics.author?.i10_index,
       publications: metrics.author?.publications,
     };
     document.querySelectorAll("[data-scholar-metric]").forEach((element) => {

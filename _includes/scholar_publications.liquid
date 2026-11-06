@@ -1,0 +1,56 @@
+{% assign metrics = site.data.citations %}
+<p>
+  Updated {{ metrics.metadata.last_updated | date: '%B %-d, %Y' }}: {{ metrics.author.publications }} records,
+  {{ metrics.author.citations }} citations, h-index {{ metrics.author.h_index -}}
+  {%- if metrics.author.i10_index %}, i10-index {{ metrics.author.i10_index }}{% endif %}. This list includes all records in the
+  <a href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}&amp;hl=en">Google Scholar profile</a>.
+</p>
+<div class="table-responsive">
+  <table class="table table-sm">
+    <thead>
+      <tr>
+        <th scope="col">Publication</th>
+        <th scope="col">Year</th>
+        <th scope="col">Citations</th>
+      </tr>
+    </thead>
+    <tbody>
+      {%- capture publication_years -%}
+        {%- for item in metrics.papers -%}{{ item[1].year }},{%- endfor -%}
+      {%- endcapture -%}
+      {% assign years = publication_years | split: ',' | uniq | sort | reverse %}
+      {% for year in years %}
+        {% unless year == 'Unknown Year' %}
+          {% for item in metrics.papers %}
+            {% assign paper = item[1] %}
+            {% if paper.year == year %}
+              <tr>
+                <td>
+                  <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;citation_for_view={{ item[0] | url_encode }}">
+                    {{- paper.title | escape -}}
+                  </a>
+                </td>
+                <td>{{ paper.year }}</td>
+                <td>{{ paper.citations }}</td>
+              </tr>
+            {% endif %}
+          {% endfor %}
+        {% endunless %}
+      {% endfor %}
+      {% for item in metrics.papers %}
+        {% assign paper = item[1] %}
+        {% if paper.year == 'Unknown Year' %}
+          <tr>
+            <td>
+              <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;citation_for_view={{ item[0] | url_encode }}">
+                {{- paper.title | escape -}}
+              </a>
+            </td>
+            <td>—</td>
+            <td>{{ paper.citations }}</td>
+          </tr>
+        {% endif %}
+      {% endfor %}
+    </tbody>
+  </table>
+</div>

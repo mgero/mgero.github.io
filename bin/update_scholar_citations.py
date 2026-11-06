@@ -276,6 +276,10 @@ def get_scholar_citations() -> None:
         "publications": len(citation_data["papers"]),
         "citations": author_data.get("citedby", 0),
         "h_index": author_data.get("hindex", 0),
+        "i10_index": author_data.get("i10index", 0),
+        "citations_recent": author_data.get("citedby5y", 0),
+        "h_index_recent": author_data.get("hindex5y", 0),
+        "i10_index_recent": author_data.get("i10index5y", 0),
     }
 
     update_bibliography_ids(scholar_publications)
